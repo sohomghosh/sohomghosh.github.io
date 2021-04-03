@@ -17,14 +17,15 @@ Over the last few years, I have been **working on improving the digital experien
 
 I hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in **Computer Science and Engineering**. <br>
 
-Outside work, I like to play [harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"} & several other percussion instruments. Being an [adventure lover](https://www.youtube.com/watch?v=hPyn1LKRLCo&list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
+Outside work, I like to play [harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"} & Cajon. Being an [adventure lover](https://www.youtube.com/watch?v=hPyn1LKRLCo&list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
 
 In one sentence, **"I am a Data Scientist by profession, an Athlete by choice and an Artist from within".** 😊
 
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
-    <li> Mar 2021: Started to learn Cajon </li>
+    <li> Apr 2021: Re-started playing football </li>
+    <li> Mar 2021: Started learning how to play Cajon </li>
     <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of <a href="https://www.pakdd2021.org/" target="_blank">PAKDD 2021</a>) </li>
     <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (Highest Level) (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Feb 2021: Received CKSI Excellence In Action - Q4 2020 (Team Award) from Fidelity for mining reasons behind high call volumes using NLP</li>
