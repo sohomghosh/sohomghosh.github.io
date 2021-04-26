@@ -24,7 +24,6 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
-    <li> Apr 2021: Re-started playing football </li>
     <li> Mar 2021: Started learning how to play Cajon </li>
     <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of <a href="https://www.pakdd2021.org/" target="_blank">PAKDD 2021</a>) </li>
     <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (Highest Level) (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
