@@ -10,7 +10,9 @@ redirect_from:
 
 I am a **Data Scientist** at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**.<br>
 
-<img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
+<img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="left">
+
+<img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="right">
 
 Over the last few years, I have been **working on improving the digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. In addition to being co-author of the books [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals){:target="_blank"} and [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in proceedings of **international conferences** and **refereed journals (like Springer, IEEE, ACM)**.
 
@@ -24,6 +26,7 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
+    <li> Apr 2021: Started to enhance my culinary skills </li>
     <li> Mar 2021: Started learning how to play Cajon </li>
     <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of <a href="https://www.pakdd2021.org/" target="_blank">PAKDD 2021</a>) </li>
     <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (Highest Level) (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
