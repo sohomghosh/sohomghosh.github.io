@@ -88,7 +88,7 @@ author:
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en"
   email            : "sohom1ghosh@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sohom-Ghosh" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +99,7 @@ author:
   github           : "sohomghosh"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/sohom1ghosh"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "sohomghosh"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/c/SOHOMGHOSH79"
   wikipedia        :
 
 
