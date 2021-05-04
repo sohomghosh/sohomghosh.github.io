@@ -28,7 +28,7 @@ Conferences
 
 Workshops
 =========
-* **S Ghosh** and A Chopra, [Using Transformer based Ensemble Learning to classify Scientific Articles](https://arxiv.org/abs/2102.09991){:target="_blank"}, in proceedings of Workshop & Shared Task on Scope Detection of the Peer Review Articles [SDPRA-2021](https://sdpra-2021.github.io/website/){:target="_blank"} (Collocated with [PAKDD-2021](pakdd2021.org/){:target="_blank"}) (Accepted for publication by Springer LNAI) ([pre-print](https://arxiv.org/abs/2102.09991){:target="_blank"}) ([code](https://github.com/SDPRA-2021/shared-task/tree/main/FideLIPI){:target="_blank"}) (2021)
+* **S Ghosh** and A Chopra, [Using Transformer based Ensemble Learning to classify Scientific Articles](https://arxiv.org/abs/2102.09991){:target="_blank"}, In Trends and Applications in Knowledge Discovery and Data Mining, PAKDD 2021. Lecture Notes in Computer Science, vol 12705. Springer, Cham. DOI: 10.1007/978-3-030-75015-2_11 ([link](https://doi.org/10.1007/978-3-030-75015-2_11){:target="_blank"}) ([pre-print](https://arxiv.org/abs/2102.09991){:target="_blank"}) ([code](https://github.com/SDPRA-2021/shared-task/tree/main/FideLIPI){:target="_blank"}) (Core rank: A) (2021)
 
 Blogs and Others
 ======
