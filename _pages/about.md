@@ -24,6 +24,8 @@ In one sentence, **"I am a Data Scientist by profession, an Athlete by choice an
 <details>
   <summary>Selected Updates 👇</summary>
   <ul>
+    <li> May 2021: Presented our research paper "Using Transformer Based Ensemble Learning to Classify Scientific Articles" at PAKDD'21-SDPRA </li>
+    <li> May 2021: Released first video prepared by 3 Musketeers on YouTube during Rabindra Jayanti</li>
     <li> Apr 2021: Started to enhance my culinary skills </li>
     <li> Mar 2021: Started learning how to play Cajon </li>
     <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of <a href="https://www.pakdd2021.org/" target="_blank">PAKDD 2021</a>) </li>
