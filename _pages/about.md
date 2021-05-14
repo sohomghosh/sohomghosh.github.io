@@ -8,11 +8,10 @@ redirect_from:
 ---
 > **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
-I am a **Data Scientist** at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**.<br>
+Namaste, I am **Sohom**, a **Data Scientist** by profession. Over the last years, I have been **working on improving the digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. Presently, I am working for the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**.<br>
 
 <img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
-
-Over the last few years, I have been **working on improving the digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. In addition to being co-author of the books [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals){:target="_blank"} and [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in proceedings of **international conferences** and **refereed journals (like PAKDD, Springer, IEEE, ACM)**.
+In addition to being co-author of the books [Natural Language Processing Fundamentals](https://www.packtpub.com/in/big-data-and-business-intelligence/natural-language-processing-fundamentals){:target="_blank"} and [The Natural Language Processing Workshop](https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in proceedings of **international conferences** and **refereed journals (like PAKDD, Springer, IEEE, ACM)**.
 
 
 I hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in **Computer Science and Engineering**. <br>
