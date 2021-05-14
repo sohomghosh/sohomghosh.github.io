@@ -8,7 +8,7 @@ redirect_from:
 ---
 > **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
-Namaste 🙏, I am **Sohom**, a **Data Scientist** by profession. Over the last years, I have been **working on improving the digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. Presently, I am working for the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**.<br>
+*Namaste 🙏*, I am **Sohom**, a **Data Scientist** by profession. Over the last years, I have been **working on improving digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. Presently, I am working for the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**.<br>
 
 <img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
 
@@ -16,7 +16,7 @@ In addition to being co-author of the books [Natural Language Processing Fundame
 
 Outside work, I like to play [harmonica](https://www.youtube.com/watch?v=ajFlw7rnfkI&list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"} & Cajon. Being an [adventure lover](https://www.youtube.com/watch?v=hPyn1LKRLCo&list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
 
-In one sentence, **"I am a Data Scientist by profession, an Athlete by choice and an Artist from within".** 😊
+In one sentence, *"I am a Data Scientist by profession, an Athlete by choice and an Artist from within".* 😊
 
 <details>
   <summary>Selected Updates 👇</summary>
