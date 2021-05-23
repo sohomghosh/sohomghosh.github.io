@@ -6,7 +6,10 @@ main:
 
   - title: "Publications"
     url: /publications/
-  
+
+  - title: "Updates"
+    url: /year-archive/
+
   - title: "Moments"
     url: /moments/
 
@@ -19,8 +22,7 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Updates"
-    url: /year-archive/
+  
         
 #  - title: "Guide"
 #    url: /markdown/
