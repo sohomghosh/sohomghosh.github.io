@@ -38,6 +38,12 @@ redirect_from:
 * Cloud (AWS)
 * SQL
 
+# Awards
+* Fidelity Investments: Excellence in Action (Team Award, Q2 & Q4 2020),  You've Earned It (Team Award, Q2 2020) ,  GS & PI (Individual Peer to Peer Recognition, 2020)
+* IndiaHikes: Green Getter (Jan 2021)
+* Times Internet (Times Business Solutions): Rockstar Award (March 2018)
+* Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: Best Presentation Award (22nd West Bengal State Science and Technology Congress, Mar 2015)
+
 # Certifications
 * [Business English Level 10 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing){:target="_blank"}
 * [Introduction to Research (NPTEL), Topper (Top 1%, Elite + Silver)
