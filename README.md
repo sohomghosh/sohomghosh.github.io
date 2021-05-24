@@ -4,8 +4,8 @@ https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_data/navigation.
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/about.md (This is for the main page i.e. About me page) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/cv.md (This is for the CV / Experience page) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/publications.md (This is for the Publication page) <br />
-https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/moments.html (This is the moments page) <br />
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/year-archive.html (This is the updates page) <br/>
+https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/moments.html (This is the moments page) <br />
 To add new pages: create it as a mardown (.md) or HTML (.html) file in the folder _pages and keep the relevant pdf files (if present) in files folder
 
 
