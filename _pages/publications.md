@@ -17,7 +17,7 @@ Books
 Journals
 ========
 
-* **S Ghosh**, [Identifying click baits using various machine learning and deep learning techniques](https://doi.org/10.1007/s41870-020-00473-1){:target="_blank"} in International Journal of Information Technology, Springer, ISSN : 2511-2104 (Print), ISSN: 2511-2112 (Online), DOI 10.1007/s41870-020-00473-1 (2020)
+* **S Ghosh**, [Identifying click baits using various machine learning and deep learning techniques](https://doi.org/10.1007/s41870-020-00473-1){:target="_blank"} in International Journal of Information Technology, Springer, ISSN : 2511-2104 (Print), ISSN: 2511-2112 (Online), 13, 1235–1242 (2021), DOI 10.1007/s41870-020-00473-1 (2020)
 * A Mitra, **S Ghosh**, P Basuchowdhuri, M K Shekhawat and S K Saha, [Recommendation system based on product purchase analysis](https://doi.org/10.1007/s11334-016-0274-x){:target="_blank"} in Innovations in Systems and Software Engineering (A NASA Journal), Springer London, ISSN: 1614 - 5046 (Print), ISSN:  1614 - 5046 (Online), DOI 10.1007/s11334-016-0274-x (2016)
 
 Conferences
