@@ -22,7 +22,7 @@ In one sentence, *"I am a Data Scientist by profession, an Athlete by choice and
     <li> May 2021: Presented our research paper <a href="https://link.springer.com/chapter/10.1007/978-3-030-75015-2_11" target="_blank">Using Transformer Based Ensemble Learning to Classify Scientific Articles</a> at PAKDD'21-SDPRA </li>
     <li> Feb 2021: Received CKSI Excellence In Action - Q4 2020 (Team Award) from Fidelity for mining reasons behind high call volumes using NLP</li>
     <li> Jan 2021: Got promoted to the post of Data Scientist at Fidelity</li>
-    <li> Oct 2020: Our research work on retrieving the most related question for a given search query has been accepted as a full paper in ACM Conference ACAI'20</li>
+    <li> Oct 2020: Our research work on retrieving the most related question for a given search query has been accepted as a full paper in ACM Conference ACAI'20, China</li>
     <li> Aug 2020: Our book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop</a> got published by Packt Publishing</li>
     <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments</li>
     <li> May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments</li>
