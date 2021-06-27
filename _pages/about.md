@@ -8,7 +8,7 @@ redirect_from:
 ---
 > **_🙏ॐ श्रीं ह्रीं सरस्वत्यै नमः॥ I meditate on Lordess Saraswati, the goddess of education, music and speech.🙏_**
 
-*Namaste 🙏*, I am **Sohom**, a **Data Scientist** by profession. Over the last years, I have been **working on improving digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. Presently, I am working at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**.<br>
+*Namaste 🙏*, I am **Sohom**, a **Data Scientist** by profession. Over the last years, I have been **working on improving digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. Presently, I am working at the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. My research interests include **Applications of Natural Language Processing in FinTech**. Here is my [CV](/files/Sohom_Resume.pdf){:target="_blank"}. <br> 
 
 <img src="../images/Research_Interest.png" alt="Research Interest" width="50%" class="center">
 
