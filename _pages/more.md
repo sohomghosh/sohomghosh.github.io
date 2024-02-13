@@ -45,6 +45,10 @@ nav_order: 6
 * Big Data Analytics (IIT Kharagpur)
 * Social and Economic Networks: Models and Analysis (Coursera)
 
+# My X (Twitter) Timeline
+ <a class="twitter-timeline" data-width="320" data-height="320" data-chrome="nofooter noheader"  href="https://twitter.com/sohom1ghosh">Tweets by sohom1ghosh</a> 
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Yearwise Updates
 <details>
   <summary>2024</summary>
@@ -187,9 +191,4 @@ nav_order: 6
     <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques</a> got published in International Journal of Information Technology, Springer</li>
     <li> Feb 2020: Visited Hampi (UNESCO World Heritage Site) along with my family
     <li> Jan 2020: Collaborated with team Symphony and played <a href="https://www.youtube.com/watch?v=6pQG9bb1QaM" target="_blank"> Harmonica </a> at the BA&R (Fidelity Investments) team's offsite</li>
-  </ul>
- </details>
 
-<h2> My X (Twitter) Timeline </h2>
- <a class="twitter-timeline" data-width="320" data-height="320" data-chrome="nofooter noheader"  href="https://twitter.com/sohom1ghosh">Tweets by sohom1ghosh</a> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
