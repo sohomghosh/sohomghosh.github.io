@@ -163,6 +163,7 @@ nav_order: 6
     <li> Jan 2021: Re-started taking lessons on Harmonica</li>
    </ul>
   </details>
+  
 <details>
   <summary>2020</summary>
 <ul>
@@ -189,6 +190,6 @@ nav_order: 6
   </ul>
  </details>
 
-<h3>My X (Twitter) Timeline</h3>
+# My X (Twitter) Timeline
  <a class="twitter-timeline" data-width="320" data-height="320" data-chrome="nofooter noheader"  href="https://twitter.com/sohom1ghosh">Tweets by sohom1ghosh</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
