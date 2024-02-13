@@ -32,8 +32,7 @@ nav_order: 6
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9366RC8ZNBAP){:target="_blank"}
 * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/PKVYZ97PLCDG){:target="_blank"}
 * [Business English Level 10 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing){:target="_blank"}
-* [Introduction to Research (NPTEL), Topper (Top 1%, Elite + Silver)
-](https://internalapp.nptel.ac.in/NOC/NOC20/SEM2/Ecertificates/127/noc20-ge22/Course/NPTEL20GE22S81400092172529.jpg){:target="_blank"}
+* Introduction to Research (NPTEL), Topper (Top 1%, Elite + Silver)
 * [Business English Level 9 (Learnship GlobalEnglish)](https://drive.google.com/file/d/17sbCOT6GL2BR_2S0CK9NYg-6rSLLit3A/view){:target="_blank"}
 * [Business English Level 8 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing){:target="_blank"}
 * [Natural Language Processing Specialization, deeplearning.ai (Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/LA8H4KG9HWJP){:target="_blank"}
@@ -44,7 +43,7 @@ nav_order: 6
 * [Machine Learning for Data Science and Analytics (edX)](https://courses.edx.org/certificates/21624bef8e1649b7a471faabca2a17ee){:target="_blank"}
 * Data Mining (IIT Kharagpur)
 * Big Data Analytics (IIT Kharagpur)
-* [Social and Economic Networks: Models and Analysis (Coursera)](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/971615~6114289/pdf){:target="_blank"}
+* Social and Economic Networks: Models and Analysis (Coursera)
 
 # Yearwise Updates
 <details>
@@ -153,7 +152,7 @@ nav_order: 6
     <li> Apr 2021: Started to enhance my culinary skills </li>
     <li> Apr 2021: Re-started playing soccer. </li>
     <li> Mar 2021: Started learning how to play Cajon </li>
-    <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of <a href="https://www.pakdd2021.org/" target="_blank">PAKDD 2021</a>) </li>
+    <li> Feb 2021: Paper accepted at <a href="https://sdpra-2021.github.io/website/" target="_blank">SDPRA 2021</a> (workshop of PAKDD 2021) </li>
     <li> Feb 2021: Completed certification on <a href="https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing" target="_blank"> Business English</a> Level 10 (Highest Level) (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Feb 2021: Received CKSI Excellence In Action - Q4 2020 (Team Award) from Fidelity for mining reasons behind high call volumes using NLP</li>
     <li> Jan 2021: Played Tabla at an online cultural event organised by Personal Investment wing of Fidelity</li>
