@@ -78,3 +78,5 @@ Press & Media coverage
 ======================
 * `Analytics Insight` **S Ghosh**, [Leveraging Artificial Intelligence to Simplify Financial Knowledge](https://www.analyticsinsight.net/leveraging-artificial-intelligence-to-simplify-financial-knowledge/){:target="_blank"}, Analytics Insight (Aug 2022)
 * `Content@TimesJobs` **S Ghosh**, [Five must have skills for successful career in data analytics](https://content.timesjobs.com/five-must-have-skills-to-build-successful-career-in-data-analytics/articleshow/59915559.cms){:target="_blank"}, Times Jobs - Jobs & Career (Aug 2017)
+
+  </div>
