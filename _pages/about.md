@@ -29,9 +29,9 @@ td {
 }
 </style>
 
-<b>`Selected News and Updates`</b> <em>[scroll down for more] ↴</em>
+<h1>Selected News and Updates </h1>
 <div style="height:200px;overflow:auto;">
-<table  style="border: 5px solid #990000; border-collapse: collapse">
+<table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
   <tr><td><b>Jan 2024</b></td> <td> Selected for ACM PhD Clinic (acceptance rate: 34/73) & received Travel Grant (acceptance rate: 86/258) from CODS COMAD 2024 </td></tr>
