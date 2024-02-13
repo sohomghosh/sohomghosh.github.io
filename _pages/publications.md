@@ -10,10 +10,10 @@ View my publications on <a href="https://scholar.google.com/citations?hl=en&user
 
 <!-- _pages/publications.md -->
 
-<!--
+
 <div class="publications">
 
- {% bibliography %} 
+<!-- {% bibliography %} -->
 
 </div>
--->
+
