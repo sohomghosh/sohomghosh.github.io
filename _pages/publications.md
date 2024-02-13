@@ -3,6 +3,9 @@ layout: page
 title: publications
 permalink: /publications/
 ---
+
+<div class="publications">
+
 {% include base_path %}
 View my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
 
