@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Service (Teaching, Mentoring, Delivering Invited Talks, Volunteering, Reviewing etc.)
+# Service
   * *Aug 2023:* Delivered a invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
   * *Jan 2023:* Delivered an invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
   * *Dec 2021:* Delivered an invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
