@@ -220,6 +220,11 @@ exclude:
   - purgecss.config.js
   - README.md
   - vendor
+  - _pages/dropdown.md
+  - _pages/teaching.md
+  - _pages/projects.md
+  - _pages/repositories.md
+  - _pages/blog.md
 keep_files:
   - CNAME
   - .nojekyll
