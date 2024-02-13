@@ -46,10 +46,6 @@ nav_order: 6
 * Big Data Analytics (IIT Kharagpur)
 * Social and Economic Networks: Models and Analysis (Coursera)
 
-# My X (Twitter) Timeline
- <a class="twitter-timeline" data-width="320" data-height="320" data-chrome="nofooter noheader"  href="https://twitter.com/sohom1ghosh">Tweets by sohom1ghosh</a> 
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 # Yearwise Updates
 <details>
   <summary>2024</summary>
