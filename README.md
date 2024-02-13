@@ -1,5 +1,7 @@
 # pages to update
 
+Config file https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_config.yml
+
 Home page about.md
 https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_pages/about.md
 
