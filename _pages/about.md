@@ -29,7 +29,7 @@ td {
 }
 </style>
 
-<h1>Selected News and Updates </h1>
+<h2>Selected News and Updates </h2>
 <div style="height:200px;overflow:auto;">
 <table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
