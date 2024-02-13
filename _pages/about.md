@@ -25,7 +25,7 @@ Outside work, I like [traveling](https://youtube.com/playlist?list=PLWVXvBh2xmj8
 
 <b>`Selected News and Updates`</b> <em>[scroll down for more] ↴</em>
 <div style="height:200px;overflow:auto;">
-<table>
+<table  style='border: 1px solid #900'>
 <col width="60px">
 <col width="650px">
   <tr><td><b>Jan 2024</b></td> <td> Selected for ACM PhD Clinic (acceptance rate: 34/73) & received Travel Grant (acceptance rate: 86/258) from CODS COMAD 2024 </td></tr>
