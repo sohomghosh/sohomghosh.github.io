@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /more/
-title: more
+title: 
 nav: true
 nav_order: 6
 ---
