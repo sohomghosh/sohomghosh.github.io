@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /more/
 title: more
 description: 
@@ -145,7 +145,7 @@ nav_order: 6
     <li> Nov 2021: Completed certification on <a href="https://www.coursera.org/account/accomplishments/verify/9366RC8ZNBAP" target="_blank"> Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a> (Coursera)</li>
     <li> Oct 2021: Visited Bankura, Biharinath and nearby places in West Bengal, India </li> 
     <li> Sep 2021: Achieved my dream of running 5 km within 25 minutes </li>
-    <li> Sep 2021: Presented our paper, "Data Driven Content Creation using Statistical and Natural Language Processing Techniques for Financial Domain" at <a href="http://wp.lancs.ac.uk/cfie/" target="_blank">The 3<sup>rd</sup> Financial Narrative Processing Workshop (FNP 2021)</a> <a href="https://arxiv.org/abs/2109.02935" target="_blank">[pre-print]</a> <a href="https://www.youtube.com/watch?v=onbh7IIgqsE" target="_blank">[video]</a>
+    <li> Sep 2021: Presented our paper, "Data Driven Content Creation using Statistical and Natural Language Processing Techniques for Financial Domain" at <a href="http://wp.lancs.ac.uk/cfie/" target="_blank">The 3<sup>rd</sup> Financial Narrative Processing Workshop (FNP 2021)</a> <a href="https://arxiv.org/abs/2109.02935" target="_blank">[pre-print]</a> <a href="https://www.youtube.com/watch?v=onbh7IIgqsE" target="_blank">[video]</a> </li>
     <li> Sep 2021: Jammed with school friends and released a <a href="https://www.youtube.com/watch?v=9HWbp-4xtYc" target="_blank">video</a> where I played Cajon.
     <li> Sep 2021: Completed certification on <a href="https://www.coursera.org/account/accomplishments/verify/PKVYZ97PLCDG" target="_blank"> Neural Networks and Deep Learning</a> (Coursera)</li>
     <li> Aug 2021: Presented our research paper "Term Expansion and FinBERT fine-tuning for Hypernym and Synonym Ranking of Financial Terms" at FinNLP@IJCAI-2021 <a href="https://youtu.be/GGwNXKH6xAQ" target="_blank">[video]</a> </li>
@@ -171,7 +171,7 @@ nav_order: 6
   
 <details>
   <summary>2020</summary>
-<ul>
+ <ul>
     <li> Dec 2020: Explored few rural areas of West Bengal. Re-started taking Tabla lessons. Recoreded few music videos. Attended a workshop on Bengali Drama and a Folk Music (Baul) concert</li>
     <li> Nov 2020: Completed certification on <a href="https://drive.google.com/file/d/1VMdU34_KTHIufIfSFyQriKg_8elFqxbg/view?usp=sharing" target="_blank"> Business English</a> Level 8 (<a href="https://www.learnship.com/en/" target="_blank">Learnship GlobalEnglish</a>)</li>
     <li> Oct 2020: Submitted our work on text summarization to Fidelity's internal review team (a necessary step before filing it as a patent)</li>
@@ -185,11 +185,12 @@ nav_order: 6
     <li> Aug 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX" target="_blank"> Natural Language Processing with Classification and Vector Spaces</a> (Coursera)</li>
     <li> Aug 2020: Book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop</a> got published by Packt Publishing</li>
     <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments</li>
-    <li> Jun 2020: Participated in Fidelity HealthifyMe Challenge 2020. Maintained streak for 42 days. Ranked 56 (All India). 
-    <li> May 2020: Authored and released a set of poems in Bengali on <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj_CVGr_XFmvcX69LzdsxVNe" target="_blank">YouTube</a>
+    <li> Jun 2020: Participated in Fidelity HealthifyMe Challenge 2020. Maintained streak for 42 days. Ranked 56 (All India). </li>
+    <li> May 2020: Authored and released a set of poems in Bengali on <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj_CVGr_XFmvcX69LzdsxVNe" target="_blank">YouTube</a> </li>
     <li> May 2020: Played <a href="https://youtu.be/ajFlw7rnfkI"  target="_blank">Harmonica </a> at the launch event of PI Fun Friday (Fidelity Investments)</li>
     <li> May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments</li>
     <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques</a> got published in International Journal of Information Technology, Springer</li>
-    <li> Feb 2020: Visited Hampi (UNESCO World Heritage Site) along with my family
+    <li> Feb 2020: Visited Hampi (UNESCO World Heritage Site) along with my family </li>
     <li> Jan 2020: Collaborated with team Symphony and played <a href="https://www.youtube.com/watch?v=6pQG9bb1QaM" target="_blank"> Harmonica </a> at the BA&R (Fidelity Investments) team's offsite</li>
-
+ </ul>
+</details>
