@@ -23,9 +23,15 @@ In addition to being co-author of the books [Natural Language Processing Fundame
 
 Outside work, I like [traveling](https://youtube.com/playlist?list=PLWVXvBh2xmj8BHN7jBCsaKpd5JP4xOT7T){:target="_blank"} and playing [harmonica](https://www.youtube.com/playlist?list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"}. Being an [adventure lover](https://www.youtube.com/playlist?list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**. To summarize, *"I am an **A**pplied Researcher by passion, an **A**rtist from within and, an **A**thlete from the heart".* 😊
 
+<style>
+td {
+    border: solid 2px lightgrey;
+}
+</style>
+
 <b>`Selected News and Updates`</b> <em>[scroll down for more] ↴</em>
 <div style="height:200px;overflow:auto;">
-<table  style='border: 1px solid #900'>
+<table  style="border: 5px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
   <tr><td><b>Jan 2024</b></td> <td> Selected for ACM PhD Clinic (acceptance rate: 34/73) & received Travel Grant (acceptance rate: 86/258) from CODS COMAD 2024 </td></tr>
