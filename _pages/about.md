@@ -8,7 +8,7 @@ profile:
   align: right
   image: sohom_profile.jpeg #prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info:  sohom1ghosh@gmail.com
+  more_info:  [sohom1ghosh@gmail.com](mailto:sohom1ghosh@gmail.com)
  
 
 news: false # includes a list of news items
