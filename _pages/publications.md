@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: <a href="https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ&view_op=list_works&sortby=pubdate">link</a>
+external_url: https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ&view_op=list_works&sortby=pubdate
 title: publications
 nav: true
 nav_order: 2
