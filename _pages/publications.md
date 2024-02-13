@@ -8,8 +8,11 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+<!--
 <div class="publications">
-View my publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ){:target="_blank"}
-<!-- {% bibliography %} -->
+
+ {% bibliography %} 
 
 </div>
+-->
+View my publications on <a href="https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ" target="_blank">Google Scholar</a>
