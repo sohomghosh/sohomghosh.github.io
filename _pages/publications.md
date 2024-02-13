@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /publications/
 title: publications
 description: 
@@ -10,9 +10,10 @@ View my publications on <a href="https://scholar.google.com/citations?hl=en&user
 
 <!-- _pages/publications.md -->
 
+<!--
 <div class="publications">
 
  {% bibliography %} 
 
 </div>
-
+-->
