@@ -190,6 +190,6 @@ nav_order: 6
   </ul>
  </details>
 
-# My X (Twitter) Timeline
+<h2> My X (Twitter) Timeline </h2>
  <a class="twitter-timeline" data-width="320" data-height="320" data-chrome="nofooter noheader"  href="https://twitter.com/sohom1ghosh">Tweets by sohom1ghosh</a> 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
