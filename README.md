@@ -1,24 +1,3 @@
-# pages to update
-
-Config file https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_config.yml
-
-Home page about.md
-https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_pages/about.md
-
-Publications to update in
-https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_bibliography/papers.bib
-Create bib from https://scholar.googleusercontent.com/citations?view_op=export_citations&user=7Jm4_McAAAAJ&citsig=AA45KRsAAAAAZczxf5gEP971VeXF0jbLJ0Xmayc&hl=en
-Or, vsit Google Scholar https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ&view_op=list_works&sortby=pubdate ->  select all articles -> Export -> BibTeX -> Export all my articles -> Export -> Save all the contents in a bib file
-
-Resume to place in
-https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/assets/pdf/Sohom_Resume.pdf
-
-Rgular Updates in "more"
-https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_pages/more.md
-
-After making changes if they are not being visible in the site, follow the steps mentioned below
-Actions -> Deploy site -> Run Workflow -> Run Workflow (green)
-
 # al-folio
 
 <div align="center">
@@ -154,6 +133,7 @@ Feel free to add your own page(s) by sending a PR.
 <a href="https://jonaruthardt.github.io" target="_blank">★</a>
 <a href="https://www.zla.app/" target="_blank">★</a>
 <a href="https://stavros.github.io" target="_blank">★</a>
+<a href="https://ericslyman.com" target="_blank">★</a>
 </td>
 </tr>
 <tr>
