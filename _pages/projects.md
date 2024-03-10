@@ -7,16 +7,17 @@ nav: true
 nav_order: 3
 ---
 
-# Selected Projects
-
-## Skills
-- Tools & Technologies: Python, SQL & Cloud (AWS)
-- Libraries & Frameworks: PyTorch, Scikit‑learn, Pandas, Numpy, XG‑Boost, LightGBM, NLTK, SpaCy, Gradio, Spark, Hadoop, Transformers
-- Algorithms & Concepts: Regression (Linear/Logistic), Decision Trees, Random Forest, Gradient Boosting Machine, XGBoost, Clustering,
+# Skills
+- **Tools & Technologies:** Python, SQL & Cloud (AWS)
+- **Libraries & Frameworks:** PyTorch, Scikit‑learn, Pandas, Numpy, XG‑Boost, LightGBM, NLTK, SpaCy, Gradio, Spark, Hadoop, Transformers
+- **Algorithms & Concepts:** Regression (Linear/Logistic), Decision Trees, Random Forest, Gradient Boosting Machine, XGBoost, Clustering,
 PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, Retrieval Augmented Generation
-- Others: LaTeX, MS Office (Word, Excel, PowerPoint), Confluence, Git, Jira, Kanban, Mural
-- Expertise: Natural Language Processing / Understanding / Generation
-- Domains: FinTech (Financial Services + Technology), Consumer Internet based Products & Customer Analytics
+- **Others:** LaTeX, MS Office (Word, Excel, PowerPoint), Confluence, Git, Jira, Kanban, Mural
+- **Expertise:** Natural Language Processing / Understanding / Generation
+- **Domains:** FinTech (Financial Services + Technology), Consumer Internet based Products & Customer Analytics
+
+
+# Selected Projects
 
 ## Voice of Customers
 Experimented with Large Language Models (T5, Falcon, MPT, Open‑Laama). Created Bi‑LSTM, T5, LED & BART based models for summarizing &
