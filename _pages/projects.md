@@ -10,21 +10,38 @@ nav_order: 3
 
 ## Inclusive Investing
 Make the investment process more inclusive so that even the economically lower strata of the society can avail finnacial services. <br>
-### Topics: 
-- Improving readability of financial texts <br> 
-- Improving reach & engagment of financial social media posts
-### Relevant Publications
 
+### Topics: 
+- Improving readability of financial texts 
+- Improving reach & engagment of financial social media posts
+
+### Relevant Publications
+- "FinRead: A Transfer Learning Based Tool to Assess Readability of Definitions of Financial Terms" in ICON-2021
+- "FinRAD: Financial Readability Assessment Dataset - 13,000+ Definitions of Financial Terms for Measuring Readability" in FNP@LREC-2022
+- "Generator-Guided Crowd Reaction Assessment" in TheWebConf (WWW) 2024
 
 
 ## Improved Investing
+Improving the journey of investments
+
 ### Topics:
+- Extracting hypernyms of financial terms
+- Extracting relationship between financial entities
+
 ### Relevant Publications: 
+- "The Mask One At a Time Framework for Detecting the Relationship between Financial Entities" in FIRE 2023
+- "Learning to Rank Hypernyms of Financial Terms using Semantic Textual Similarity" in SN Computer Science (Springer) 2023
+- "Term Expansion and FinBERT fine-tuning for Hypernym and Synonym Ranking of Financial Terms" in FinNLP@IJCAI 2021
 
 
 ## Impactful (Green) Investing
+
+
 ### Topics:
+
+
 ### Relevant Publications: 
+
 
 
 ## Informed Investing
