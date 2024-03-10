@@ -8,6 +8,7 @@ nav_order: 6
 ---
 
 # Service
+  * *Mar 2024:* Delivered an online invited talk on **Financial Natural Language Processing** at Yobe State University (Nigeria)
   * *Aug 2023:* Delivered a invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
   * *Jan 2023:* Delivered an invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
   * *Dec 2021:* Delivered an invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
@@ -19,7 +20,7 @@ nav_order: 6
   * *Feb 2014 - Aug 2014:* Secretary at the ACM student chapter of Heritage Institute of Technology, Kolkata (HIT-K)
   *  *Aug 2014:* Delivered a talk on "R programming" at a workshop organised by HIT-K ACM student chapter [(materials)](https://www.slideshare.net/sohomg/r-programming-basic-advanced){:target="_blank"}
   * Mentored: Several undergraduate and postgraduate students
-  * Reviewed: Research Papers, Book Proposals (ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Manning Publications, Social Network Analysis and Mining - Springer, FinArg@NTCIR-17, etc.)
+  * Reviewed: Research Papers, Book Proposals (ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Manning Publications, Social Network Analysis and Mining - Springer, FinArg@NTCIR-17, FinNLP@LREC-COLING-2024 etc.)
 
 # Awards
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
@@ -50,6 +51,12 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
+ <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) sub-task of FinNLP-KDF@LREC-COLING 2024 </li>
+ <li> Mar 2024: Delivered an online invited talk on **Financial Natural Language Processing** at Yobe State University (Nigeria) </li>
+ <li> Mar 2024: We have got a paper accepted in the Short Papers Track of The 2024 ACM Web Conference (theWebConf 2024, formerly known as International World Wide Web Conference, abbreviated as WWW), which will be held in Singapore, during 13-17 May, 2024.  This is my first A* publication. The paper is: 
+"Generator-Guided Crowd Reaction Assessment". </li>
+ <li> Feb 2024: Visited IISc Open Day 2024. </li> 
+ <li> Feb 2024: We have got a paper accepted in the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) which will be held in Torino, Italy, during 20-25 May, 2024.  The paper is: "IndicFinNLP: Financial Natural Language Processing for Indian Languages". </li>
   <li> Feb 2024: Played <a href="https://youtu.be/UPruXqzK8mQ?si=JOV-kDr-CCY-HOXQ" target="_blank">harmonica</a> at "Embassy Office Parks' Got Talent" event and got seleted for the finals. </li>
   <li> Jan 2024: Received Eureka Enablers (Eureka Innovation Awards 2023) from Fidelity Investments </li>
   <li> Jan 2024: Received Student Travel Grant to attended CODS-COMAD 2024. Got mentored by Dr. Asuthosh Modi (IIT-K), Dr. Manas Gaur (UMBC), and Dr. Partha Talukdar (Google / IISc) during the PhD clinic sessions held in conjuction with CODS COMAD 2024. Student Travel Grant acceptance rate: 86/258. PhD clinic acceptance rate: 34/73. </li>
