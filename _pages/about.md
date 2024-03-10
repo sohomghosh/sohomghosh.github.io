@@ -38,7 +38,7 @@ td {
   <tr><td><b>Mar 2024</b></td> <td> Our paper, "Generator-Guided Crowd Reaction Assessment" got accepted at TheWebConf (WWW) 2024 </td></tr>
   <tr><td><b>Feb 2024</b></td> <td> Our paper, "IndicFinNLP: Financial Natural Language Processing for Indian Languages" got accepted at LREC-COLING 2024 </td></tr>
   <tr><td><b>Jan 2024</b></td> <td> Received <b>Eureka Enablers</b> (Eureka Innovation Awards 2023) from Fidelity Investments</td></tr>
-  <tr><td><b>Summary 2023:</b></td><td> Promotion@Fidelity. Publications: <b>CODS-COMAD (India), ICDSA (India), FinNLP@IJCNLP-AACL (Indonesia), NTCIR (Japan), FIRE (India), IEEE Big Data (Italy), SNCS (Springer), Science Talks (Elsevier)</b>. Completed PhD coursework at <b>Jadavpur University</b>.</td></tr>
+  <tr><td><b>Summary 2023:</b></td><td> Promotion@Fidelity. Publications: <b>CODS-COMAD (India), FinNLP@IJCNLP-AACL (Indonesia), NTCIR (Japan), FIRE (India), IEEE Big Data (Italy), SNCS (Springer), Science Talks (Elsevier)</b>. Completed PhD coursework at <b>Jadavpur University</b>.</td></tr>
   <tr><td><b>Aug 2023:</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 100 citations. Miles to go! </td></tr>
   <tr><td><b>May 2023:</b></td><td> Received On the Spot (India) award from Fidelity Investments. </td></tr>
 <tr><td><b>Jan 2023:</b></td><td> Presented two research papers at <a href="https://cods-comad.in/2023/" target="_blank">CODS-COMAD 2023</a>, IIT-Bombay, India. Received <a href="https://cods-comad.in/2023/awards.php" target="_blank">honourable mention</a> in the YRS track. </td></tr>
