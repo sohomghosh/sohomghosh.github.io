@@ -17,6 +17,10 @@ https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/assets/pdf/Sohom
 Rgular Updates in "more"
 https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_pages/more.md
 
+Projects
+For projects, update the following file:
+https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/projects.md
+
 After making changes if they are not being visible in the site, follow the steps mentioned below
 Actions -> Deploy site -> Run Workflow -> Run Workflow (green)
 
