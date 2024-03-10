@@ -11,6 +11,7 @@ Create bib from https://scholar.googleusercontent.com/citations?view_op=export_c
 Or, vsit Google Scholar https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ&view_op=list_works&sortby=pubdate ->  select all articles -> Export -> BibTeX -> Export all my articles -> Export -> Save all the contents in a bib file
 
 Resume to place in
+https://github.com/sohomghosh/sohomghosh.github.io/tree/master/assets/pdf/  with name Sohom_Resume.pdf like 
 https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/assets/pdf/Sohom_Resume.pdf
 
 Rgular Updates in "more"
