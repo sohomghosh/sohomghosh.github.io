@@ -18,7 +18,7 @@ PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, 
 - Expertise: Natural Language Processing / Understanding / Generation
 - Domains: FinTech (Financial Services + Technology), Consumer Internet based Products & Customer Analytics
 
-## Voice of Customer
+## Voice of Customers
 Experimented with Large Language Models (T5, Falcon, MPT, Open‑Laama). Created Bi‑LSTM, T5, LED & BART based models for summarizing &
 extracting multiple themes from call transcripts. Used Agglomerative Hierarchical Clustering recursively to group similar themes. Designed
 the annotation job using Appen and administered a team of 98 annotators. <br>
