@@ -51,7 +51,7 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
- <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) sub-task of FinNLP-KDF@LREC-COLING 2024 </li>
+ <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) ML-ESG-3 sub-task of FinNLP-KDF@LREC-COLING 2024 </li>
  <li> Mar 2024: Delivered an online invited talk on **Financial Natural Language Processing** at Yobe State University (Nigeria) </li>
  <li> Mar 2024: We have got a paper accepted in the Short Papers Track of The 2024 ACM Web Conference (theWebConf 2024, formerly known as International World Wide Web Conference, abbreviated as WWW), which will be held in Singapore, during 13-17 May, 2024.  This is my first A* publication. The paper is: 
 "Generator-Guided Crowd Reaction Assessment". </li>
