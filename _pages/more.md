@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 # Service
-  * *Mar 2024:* Delivered an online invited talk on **Financial Natural Language Processing** at Yobe State University (Nigeria)
+  * *Mar 2024:* Delivered an online invited talk on **Financial Natural Language Processing** at Yobe State University (Nigeria). It was supported by Google ExploreCSR (Google Research grant).
   * *Aug 2023:* Delivered a invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
   * *Jan 2023:* Delivered an invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
   * *Dec 2021:* Delivered an invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
@@ -52,7 +52,7 @@ nav_order: 6
   <summary>2024</summary>
 <ul>
  <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) ML-ESG-3 sub-task of FinNLP-KDF@LREC-COLING 2024 </li>
- <li> Mar 2024: Delivered an online invited talk on Financial Natural Language Processing at Yobe State University (Nigeria) </li>
+ <li> Mar 2024: Delivered an online invited talk on Financial Natural Language Processing at Yobe State University (Nigeria). It was supported by Google ExploreCSR (Google Research grant). </li>
  <li> Mar 2024: We have got a paper accepted in the Short Papers Track of The 2024 ACM Web Conference (theWebConf 2024, formerly known as International World Wide Web Conference, abbreviated as WWW), which will be held in Singapore, during 13-17 May, 2024.  This is my first A* publication. The paper is: 
 "Generator-Guided Crowd Reaction Assessment". </li>
  <li> Feb 2024: Visited IISc Open Day 2024. </li> 
