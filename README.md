@@ -8,7 +8,7 @@ https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_pages/about.md
 Publications to update in
 https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_bibliography/papers.bib
 Add image of the publication venue in https://github.com/sohomghosh/sohomghosh.github.io/tree/master/assets/img/publication_preview
-In each bib add the folowing,
+In each bib add the folowing,<br>
 preview={<name of image added with extension>},
 selected={true}
 
