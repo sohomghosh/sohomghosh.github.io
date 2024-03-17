@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sr. Data Scientist at Fidelity | Researcher at Jadavpur University
+subtitle: <a href='#'>Sr. Data Scientist at Fidelity | Researcher at Jadavpur University</a>
 
 profile:
   align: right
