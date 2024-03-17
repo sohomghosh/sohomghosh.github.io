@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Sr. Data Scientist at Fidelity | Researcher at Jadavpur University
 
 profile:
   align: right
