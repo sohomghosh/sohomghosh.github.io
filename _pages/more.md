@@ -9,18 +9,18 @@ nav_order: 6
 
 # Service
   * *Mar 2024:* Delivered an online invited talk on **Financial Natural Language Processing** at Yobe State University (Nigeria). It was supported by Google ExploreCSR (Google Research grant).
-  * *Aug 2023:* Delivered a invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
-  * *Jan 2023:* Delivered an invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
-  * *Dec 2021:* Delivered an invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
-  * *Jun 2020 - Nov 2021:* Disseminated knowledge at various internal forums of Fidelity Investments (Data Science Bootcamps, Reearch Seminars (India, US), BA&R Competency group, etc.)
+  * *Aug 2023:* Delivered a online invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
+  * *Jan 2023:* Delivered an online invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
+  * *Dec 2021:* Delivered an online invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
+  * *Jun 2020 - Dec 2023:* Disseminated knowledge at various internal forums of Fidelity Investments (Collaboration Innovation & Experimentation Track, Data Science Bootcamps, Reearch Seminars (India, US), BA&R Competency group, etc.)
   * *Feb 2020 - Mar 2020:* I volunteered for FidCares (A CSR initiative by Fidelity Investments).
-  * *Jul 2016 - Jan 2017:* Trained several corporates of one of the World’s Largest Consulting Firm on "Text Analytics and Machine Learning using R" in association with Fn MathLogic Consulting Services Pvt. Ltd.
-  * *Sep 2015 - Jan 2016:* Taught "Big Data Analytics" to corporates in association with NIVT, Kolkata (a unit of Novel R&D India Pvt. Ltd.). 
-  * *Aug 2014 - Jun 2015:* Taught "Computer Applications" to underprivileged students in association with the Rotaract Club of Heritage Institute of Technology, Kolkata.
+  * *Jul 2016 - Jan 2017:* Trained several corporates of one of the World’s Largest Consulting Firm on **Text Analytics and Machine Learning using R** in association with Fn MathLogic Consulting Services Pvt. Ltd.
+  * *Sep 2015 - Jan 2016:* Taught **Big Data Analytics** to corporates in association with NIVT, Kolkata (a unit of Novel R&D India Pvt. Ltd.). 
+  * *Aug 2014 - Jun 2015:* Taught **Computer Applications** to underprivileged students in association with the Rotaract Club of Heritage Institute of Technology, Kolkata.
   * *Feb 2014 - Aug 2014:* Secretary at the ACM student chapter of Heritage Institute of Technology, Kolkata (HIT-K)
-  *  *Aug 2014:* Delivered a talk on "R programming" at a workshop organised by HIT-K ACM student chapter [(materials)](https://www.slideshare.net/sohomg/r-programming-basic-advanced){:target="_blank"}
+  *  *Aug 2014:* Delivered a talk on **R programming** at a workshop organised by HIT-K ACM student chapter [(materials)](https://www.slideshare.net/sohomg/r-programming-basic-advanced){:target="_blank"}
   * Mentored: Several undergraduate and postgraduate students
-  * Reviewed: Research Papers, Book Proposals (ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Manning Publications, Social Network Analysis and Mining - Springer, FinArg@NTCIR-17, FinNLP@LREC-COLING-2024 etc.)
+  * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer, etc.), Book Proposals (Manning Publications)
 
 # Awards
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
