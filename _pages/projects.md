@@ -35,6 +35,9 @@ iii) Competent solution to address the student debt crisis was created which lea
 #### Relevant Publications: 
 - "AUTOMATED ANALYSIS OF CUSTOMER INTERACTION TEXT TO GENERATE CUSTOMER INTENT INFORMATION AND HIERARCHY OF CUSTOMER ISSUES", US Patent publication No. US20230112369A1
   
+## Retrieval Augmented Generation (RAG) on Call Transcripts
+Experimented with Retrieval Augmented Generation (RAG) to answer business queries from call transcripts. Worked on various chunking and denoising strategies. Explored several frameworks like LangChain, LlamaIndex, FAISS, Chroma DB, etc.
+
 
 ## Inclusive Investing
 Making the investment process more inclusive so that even the economically lower strata of the society can avail finnacial services.
