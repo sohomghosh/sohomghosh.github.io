@@ -23,7 +23,7 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer, etc.), Book Proposals (Manning Publications)
 
 # Awards
-* [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica and secured 2nd position in Embassy Office Parks' Got Talent.** out of around 50 contestants (Mar 2024)
+* [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica and secured 2nd position in Embassy Office Parks' Got Talent** out of around 50 contestants (Mar 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
 * [CODS-COMAD 2023](https://cods-comad.in/2023/awards.php){:target="_blank"}: **Honourable Mention at the Young Researchers’ Symposium Track** (Jan 2023)
 * [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}: **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021)
