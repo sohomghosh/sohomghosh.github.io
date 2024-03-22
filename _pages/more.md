@@ -23,6 +23,7 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer, etc.), Book Proposals (Manning Publications)
 
 # Awards
+* [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica. Secured 2nd position in Embassy Office Parks' Got Talent.** Total contestant ~50 (Mar 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
 * [CODS-COMAD 2023](https://cods-comad.in/2023/awards.php){:target="_blank"}: **Honourable Mention at the Young Researchers’ Symposium Track** (Jan 2023)
 * [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}: **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021)
@@ -51,16 +52,17 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
- <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) ML-ESG-3 sub-task of FinNLP-KDF@LREC-COLING 2024 </li>
+ <li> Mar 2024: Played <a href="https://www.youtube.com/watch?v=FBsPGEmfPSw&ab_channel=SohomGhosh" target="_blank">harmonica</a> and secured 2nd position out of around 50 contestants at "Embassy Office Parks' Got Talent" (<a href="https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/" target="_blank">ENERGIZE-2024</a>) .  </li>
+ <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) ML-ESG-3 sub-task of FinNLP-KDF@LREC-COLING 2024. </li>
  <li> Mar 2024: Delivered an online invited talk on Financial Natural Language Processing at Yobe State University (Nigeria). It was supported by Google ExploreCSR (Google Research grant). </li>
  <li> Mar 2024: We have got a paper accepted in the Short Papers Track of The 2024 ACM Web Conference (theWebConf 2024, formerly known as International World Wide Web Conference, abbreviated as WWW), which will be held in Singapore, during 13-17 May, 2024.  This is my first A* publication. The paper is: 
 "Generator-Guided Crowd Reaction Assessment". </li>
  <li> Feb 2024: Visited IISc Open Day 2024. </li> 
  <li> Feb 2024: We have got a paper accepted in the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) which will be held in Torino, Italy, during 20-25 May, 2024.  The paper is: "IndicFinNLP: Financial Natural Language Processing for Indian Languages". </li>
-  <li> Feb 2024: Played <a href="https://youtu.be/UPruXqzK8mQ?si=JOV-kDr-CCY-HOXQ" target="_blank">harmonica</a> at "Embassy Office Parks' Got Talent" event and got seleted for the finals. </li>
+  <li> Feb 2024: Played <a href="https://youtu.be/UPruXqzK8mQ?si=JOV-kDr-CCY-HOXQ" target="_blank">harmonica</a> at "Embassy Office Parks' Got Talent" event and got selected for the finals. </li>
   <li> Jan 2024: Received Eureka Enablers (Eureka Innovation Awards 2023) from Fidelity Investments </li>
   <li> Jan 2024: Received Student Travel Grant to attended CODS-COMAD 2024. Got mentored by Dr. Asuthosh Modi (IIT-K), Dr. Manas Gaur (UMBC), and Dr. Partha Talukdar (Google / IISc) during the PhD clinic sessions held in conjuction with CODS COMAD 2024. Student Travel Grant acceptance rate: 86/258. PhD clinic acceptance rate: 34/73. </li>
-  <li> Jan 2024: Witnessed the first sunshine of the year from Uttari Betta (Huthridurga), Karnataka </li>
+  <li> Jan 2024: Witnessed the first sunshine of the year from Uttari Betta (Huthridurga), Karnataka. </li>
 </ul>
 </details>
 <details>
