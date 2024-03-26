@@ -40,7 +40,7 @@ Experimented with Retrieval Augmented Generation (RAG) to answer business querie
 
 
 ## Inclusive Investing
-Making the investment process more inclusive so that even the economically lower strata of the society can avail finnacial services.
+Making the investment process more inclusive so that even the economically lower strata of the society can avail financial services.
 
 #### Topics: 
 - Improving readability of financial texts 
@@ -84,12 +84,14 @@ Keeping the investors informed and helping them to make data driven decisions
 #### Topics:
 - Detecting exaggerated and in-claim numerals from Financial Texts 
 - Evaluating the Rationals of Amateur Investors
-- Evaluating the trustworthiness of Social Media Posts by Executives on Stock Prices
--  Fine-grained Argument Understanding in Finnacial Texts
+- Evaluating the effect of Social Media Posts by Executives on Stock Prices
+- Fine-grained Argument Understanding in Financial Texts
 
 #### Relevant Publications: 
 - "LIPI at the NTCIR-16 FinNum-3 Task: Ensembling transformer based models to detect in-claim numerals in Financial Conversation" in NTCIR-16 2022
-
+- "Evaluating Impact of Social Media Posts by Executives on Stock Prices" in FIRE 2022
+- "LIPI at the FinNLP-2022 ERAI Task: Ensembling Sentence Transformers for Assessing Maximum Possible Profit and Loss from Online Financial Posts" in FinNLP@EMNLP 2022
+- "LIPI at the NTCIR-17 FinArg-1 Task: Using Pre-trained Language Models for Comprehending Financial Arguments" in NTCIR-17 2023
 
 ## Indic Investing
 Helping Indians to manage their wealth
