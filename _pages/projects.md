@@ -1,111 +1,65 @@
 ---
-layout: default
+layout: page
 title: projects
 permalink: /projects/
-description: 
+description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
+display_categories: [work, fun]
+horizontal: false
 ---
 
-# Skills
-- **Tools & Technologies:** Python, SQL & Cloud (AWS)
-- **Libraries & Frameworks:** PyTorch, Scikit‑learn, Pandas, Numpy, XG‑Boost, LightGBM, NLTK, SpaCy, Gradio, Spark, Hadoop, Transformers
-- **Algorithms & Concepts:** Regression (Linear/Logistic), Decision Trees, Random Forest, Gradient Boosting Machine, XGBoost, Clustering,
-PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, Retrieval Augmented Generation
-- **Others:** LaTeX, MS Office (Word, Excel, PowerPoint), Confluence, Git, Jira, Kanban, Mural
-- **Expertise:** Natural Language Processing / Understanding / Generation
-- **Domains:** FinTech (Financial Services + Technology), Consumer Internet based Products & Customer Analytics
+<!-- pages/projects.md -->
+<div class="projects">
+{% if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {% for category in page.display_categories %}
+  <a id="{{ category }}" href=".#{{ category }}">
+    <h2 class="category">{{ category }}</h2>
+  </a>
+  {% assign categorized_projects = site.projects | where: "category", category %}
+  {% assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal %}
+  <div class="container">
+    <div class="row row-cols-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="grid">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
 
+{% else %}
 
-# Selected Projects
+<!-- Display projects without categories -->
 
-## Voice of Customers
-Experimented with Large Language Models (T5, Falcon, MPT, Open‑Laama). Created Bi‑LSTM, T5, LED & BART based models for summarizing &
-extracting multiple themes from call transcripts. Used Agglomerative Hierarchical Clustering recursively to group similar themes. Designed
-the annotation job using Appen and administered a team of 98 annotators. <br>
-Applications: <br>
-i) Automated short note generation for calls, <br>
-ii) Comprehending reasons behind high call volumes, <br>
-iii) Featurization of textual interaction data. <br>
-Impact: <br>
-i) Issues related to login were identified & resolved leading to 10% increase in customer satisfaction score <br>
-ii) Workflow for different processes were updated leading to increase in Net Promoter Score and Customer Ease Score by 18 points & 27% respectively <br>
-iii) Competent solution to address the student debt crisis was created which lead to 60% increase in enrollment, 59K yearly payments & $200M+ being paid to the participants.
+{% assign sorted_projects = site.projects | sort: "importance" %}
 
-#### Relevant Publications: 
-- "AUTOMATED ANALYSIS OF CUSTOMER INTERACTION TEXT TO GENERATE CUSTOMER INTENT INFORMATION AND HIERARCHY OF CUSTOMER ISSUES", US Patent publication No. US20230112369A1
-  
-## Retrieval Augmented Generation (RAG) on Call Transcripts
-Experimented with Retrieval Augmented Generation (RAG) to answer business queries from call transcripts. Worked on various chunking and denoising strategies. Explored several frameworks like LangChain, LlamaIndex, FAISS, Chroma DB, etc.
+  <!-- Generate cards for each project -->
 
+{% if page.horizontal %}
 
-## Inclusive Investing
-Making the investment process more inclusive so that even the economically lower strata of the society can avail financial services.
-
-#### Topics: 
-- Improving readability of financial texts 
-- Improving reach & engagment of financial social media posts
-
-#### Relevant Publications
-- "FinRAD: Financial Readability Assessment Dataset - 13,000+ Definitions of Financial Terms for Measuring Readability" in FNP@LREC-2022
-- "Generator-Guided Crowd Reaction Assessment" in TheWebConf (WWW) 2024
-
-
-## Improved Investing
-Improving the journey of investments
-
-#### Topics:
-- Extracting hypernyms of financial terms
-- Extracting relationship between financial entities
-
-#### Relevant Publications: 
-- "Term Expansion and FinBERT fine-tuning for Hypernym and Synonym Ranking of Financial Terms" in FinNLP@IJCAI 2021
-- "Learning to Rank Hypernyms of Financial Terms using Semantic Textual Similarity" in SN Computer Science (Springer) 2023
-- "The Mask One At a Time Framework for Detecting the Relationship between Financial Entities" in FIRE 2023
-
-
-## Impactful (Green) Investing
-Considering environmental aspects while investing
-
-#### Topics:
-- Classifying a financail text as Sustainable or Unsustainable
-- Detecting Environmental, Social and Governance (ESG) Issues from financial texts
-- Identifying ESG impact type
-- Identifying ESG impact duration
-
-#### Relevant Publications: 
-- "Ranking Environment, Social And Governance Related Concepts And Assessing Sustainability Aspects Of Financial Texts" in IJCAI-ECAI 2022
-- "A low resource framework for Multi-lingual ESG Impact Type Identification" in FinNLP@IJCNLP-AACL 2023
-
-
-## Informed Investing
-Keeping the investors informed and helping them to make data driven decisions
-
-#### Topics:
-- Detecting exaggerated and in-claim numerals from Financial Texts 
-- Evaluating the Rationals of Amateur Investors
-- Evaluating the effect of Social Media Posts by Executives on Stock Prices
-- Fine-grained Argument Understanding in Financial Texts
-
-#### Relevant Publications: 
-- "LIPI at the NTCIR-16 FinNum-3 Task: Ensembling transformer based models to detect in-claim numerals in Financial Conversation" in NTCIR-16 2022
-- "Evaluating Impact of Social Media Posts by Executives on Stock Prices" in FIRE 2022
-- "LIPI at the FinNLP-2022 ERAI Task: Ensembling Sentence Transformers for Assessing Maximum Possible Profit and Loss from Online Financial Posts" in FinNLP@EMNLP 2022
-- "LIPI at the NTCIR-17 FinArg-1 Task: Using Pre-trained Language Models for Comprehending Financial Arguments" in NTCIR-17 2023
-
-## Indic Investing
-Helping Indians to manage their wealth
-
-#### Relevant Publications: 
-- "Financial Argument Analysis in Bengali" in FIRE 2023
-- "IndicFinNLP: Financial Natural Language Processing for Indian Languages" in LREC-COLING 2024
-
-## FinNLP tools
-Open sourcing tools for analysing financial texts
-
-#### Relevant Publications: 
-- "FinRead: A Transfer Learning Based Tool to Assess Readability of Definitions of Financial Terms" in ICON-2021
-- "Fincat: Financial numeral claim analysis tool" in FinWeb@WWW 2022
-- "Fincat-2:  An enhanced Financial Numeral Claim Analysis Tool" in Software Impacts (Elsevier) 2022
-- "FLUEnT: Financial Language Understandability Enhancement Toolkit" in CODS-COMAD 2023
-
+  <div class="container">
+    <div class="row row-cols-2">
+    {% for project in sorted_projects %}
+      {% include projects_horizontal.liquid %}
+    {% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div class="grid">
+    {% for project in sorted_projects %}
+      {% include projects.liquid %}
+    {% endfor %}
+  </div>
+  {% endif %}
+{% endif %}
+</div>
