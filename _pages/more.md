@@ -57,6 +57,7 @@ nav_order: 6
  <li> Jul 2024: Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </li>
  <li> Jun 2024: Completed 5 years working at Fidelity Investments </li>
  <li> Jun 2024: I am now a Kaggle Dataset Expert <a href="https://kaggle.com/sohomghosh/datasets" target="_blank">(link)</a> </li>
+ <li> May 2024: Presented our paper, "IndicFinNLP: Financial Natural Language Processing for Indian Languages" <a href="https://aclanthology.org/2024.lrec-main.789.pdf" target="_blank">(pre-print) at LREC-COLING 2024 (online) </li>
  <li> May 2024: Learnt swimming (basic level) from Nisha Millets Swimming Academy, Bengaluru </li>
  <li> May 2024: Ranked 26th in 10 km male category at Uru Night Run (Marathon) 2024. Complete it in 48 minutes. </li>
  <li> Apr 2024: Visited Kalimpong, Darjeeling, Mirik, and Mayapur ISKCON Temple</li>
