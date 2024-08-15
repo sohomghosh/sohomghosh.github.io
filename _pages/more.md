@@ -12,7 +12,7 @@ nav_order: 6
   * *Aug 2023:* Delivered a online invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
   * *Jan 2023:* Delivered an online invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
   * *Dec 2021:* Delivered an online invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
-  * *Jun 2020 - Dec 2023:* Disseminated knowledge at various internal forums of Fidelity Investments (Collaboration Innovation & Experimentation Track, Data Science Bootcamps, Reearch Seminars (India, US), BA&R Competency group, etc.)
+  * *Jun 2020 - Dec 2023:* Disseminated knowledge at various internal forums of Fidelity Investments (Collaboration Innovation & Experimentation Track, Data Science Bootcamps, Research Seminars (India, US), BA&R Competency group, etc.)
   * *Feb 2020 - Mar 2020:* I volunteered for FidCares (A CSR initiative by Fidelity Investments).
   * *Jul 2016 - Jan 2017:* Trained several corporates of one of the World’s Largest Consulting Firm on **Text Analytics and Machine Learning using R** in association with Fn MathLogic Consulting Services Pvt. Ltd.
   * *Sep 2015 - Jan 2016:* Taught **Big Data Analytics** to corporates in association with NIVT, Kolkata (a unit of Novel R&D India Pvt. Ltd.). 
@@ -52,6 +52,8 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
+ <li> Jul 2024: My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://yahootechpulse.easychair.org/publications/preprint_open/GqWf" target="_blank">(pre-print paper)</a>  </li>
+ <li> Jul 2024: Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </li>
  <li> Mar 2024: Played <a href="https://www.youtube.com/watch?v=FBsPGEmfPSw&ab_channel=SohomGhosh" target="_blank">harmonica</a> and secured the 2nd position out of around 50 contestants in "Embassy Office Parks' Got Talent" (<a href="https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/" target="_blank">ENERGIZE-2024</a>) at EGL, Bangalore.  </li>
  <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) ML-ESG-3 sub-task of FinNLP-KDF@LREC-COLING 2024. </li>
  <li> Mar 2024: Delivered an online invited talk on Financial Natural Language Processing at Yobe State University (Nigeria). It was supported by Google ExploreCSR (Google Research grant). </li>
