@@ -20,7 +20,7 @@ nav_order: 6
   * *Feb 2014 - Aug 2014:* Secretary at the ACM student chapter of Heritage Institute of Technology, Kolkata (HIT-K)
   *  *Aug 2014:* Delivered a talk on **R programming** at a workshop organised by HIT-K ACM student chapter [(materials)](https://www.slideshare.net/sohomg/r-programming-basic-advanced){:target="_blank"}
   * Mentored: Several undergraduate and postgraduate students
-  * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer, etc.), Book Proposals (Manning Publications)
+  * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
 
 # Awards
 * [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica and secured the 2nd position in Embassy Office Parks' Got Talent** out of around 50 contestants at EGL, Bangalore(Mar 2024)
@@ -52,15 +52,21 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
+ <li> Aug 2024: Served as a panelist at the launch event of Fidelity Writer's Premier League </li>
  <li> Jul 2024: My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://yahootechpulse.easychair.org/publications/preprint_open/GqWf" target="_blank">(pre-print paper)</a>  </li>
  <li> Jul 2024: Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </li>
+ <li> Jun 2024: Completed 5 years working at Fidelity Investments </li>
+ <li> Jun 2024: I am now a Kaggle Dataset Expert <a href="https://kaggle.com/sohomghosh/datasets" target="_blank">(link)</a> </li>
+ <li> May 2024: Learnt swimming (basic level) from Nisha Millets Swimming Academy, Bengaluru </li>
+ <li> May 2024: Ranked 26th in 10 km male category at Uru Night Run (Marathon) 2024. Complete it in 48 minutes. </li>
+ <li> Apr 2024: Visited Kalimpong, Darjeeling, Mirik, and Mayapur ISKCON Temple</li>
  <li> Mar 2024: Played <a href="https://www.youtube.com/watch?v=FBsPGEmfPSw&ab_channel=SohomGhosh" target="_blank">harmonica</a> and secured the 2nd position out of around 50 contestants in "Embassy Office Parks' Got Talent" (<a href="https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/" target="_blank">ENERGIZE-2024</a>) at EGL, Bangalore.  </li>
  <li> Mar 2024: Our team, LIPI ranked 1st in the impact length prediction (French) ML-ESG-3 sub-task of FinNLP-KDF@LREC-COLING 2024. </li>
  <li> Mar 2024: Delivered an online invited talk on Financial Natural Language Processing at Yobe State University (Nigeria). It was supported by Google ExploreCSR (Google Research grant). </li>
  <li> Mar 2024: We have got a paper accepted in the Short Papers Track of The 2024 ACM Web Conference (theWebConf 2024, formerly known as International World Wide Web Conference, abbreviated as WWW), which will be held in Singapore, during 13-17 May, 2024.  This is my first A* publication. The paper is: 
-"Generator-Guided Crowd Reaction Assessment". </li>
- <li> Feb 2024: Visited IISc Open Day 2024. </li> 
- <li> Feb 2024: We have got a paper accepted in the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) which will be held in Torino, Italy, during 20-25 May, 2024.  The paper is: "IndicFinNLP: Financial Natural Language Processing for Indian Languages". </li>
+"Generator-Guided Crowd Reaction Assessment".  <a href="https://arxiv.org/abs/2403.09702" target="_blank">(pre-print)</a> </li>
+ <li> Feb 2024: Visited IISc Open Day 2024 & ISKCON Bengaluru. </li> 
+ <li> Feb 2024: We have got a paper accepted in the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) which will be held in Torino, Italy, during 20-25 May, 2024.  The paper is: "IndicFinNLP: Financial Natural Language Processing for Indian Languages". <a href="https://aclanthology.org/2024.lrec-main.789.pdf" target="_blank">(pre-print)</a> </li>
   <li> Feb 2024: Played <a href="https://youtu.be/UPruXqzK8mQ?si=JOV-kDr-CCY-HOXQ" target="_blank">harmonica</a> at "Embassy Office Parks' Got Talent" event and got selected for the finals. </li>
   <li> Jan 2024: Received Eureka Enablers (Eureka Innovation Awards 2023) from Fidelity Investments </li>
   <li> Jan 2024: Received Student Travel Grant to attended CODS-COMAD 2024. Got mentored by Dr. Asuthosh Modi (IIT-K), Dr. Manas Gaur (UMBC), and Dr. Partha Talukdar (Google / IISc) during the PhD clinic sessions held in conjuction with CODS COMAD 2024. Student Travel Grant acceptance rate: 86/258. PhD clinic acceptance rate: 34/73. </li>
@@ -70,7 +76,7 @@ nav_order: 6
 <details>
   <summary>2023</summary>
 <ul>
-  <li> Dec 2023: Presented 2 papers at FIRE with Sachin & Rima. Visited Goa </li>
+  <li> Dec 2023: Presented 2 papers at FIRE. Visited Goa </li>
   <li> Dec 2023: Visited Mangalore, Sringeri, Udupi, and the northern part of Kerela </li>
   <li> Nov 2023: Attended Sidhant's wedding, explored Pune, Lonavala (Camped near Pawna Lake), Lohagad and Visapur Fort </li>
   <li> Nov 2023: I got selected to attend the ACM India PhD Clinic (colocated with Cods-Comad 2024) </li>
