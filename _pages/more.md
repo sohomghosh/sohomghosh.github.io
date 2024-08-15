@@ -53,7 +53,7 @@ nav_order: 6
   <summary>2024</summary>
 <ul>
  <li> Aug 2024: Served as a panelist at the launch event of Fidelity Writer's Premier League </li>
- <li> Jul 2024: My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://yahootechpulse.easychair.org/publications/preprint_open/GqWf" target="_blank">(pre-print paper)</a>  </li>
+ <li> Jul 2024: My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://yahootechpulse.easychair.org/publications/preprint_open/GqWf" target="_blank">(pre-print)</a>  </li>
  <li> Jul 2024: Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </li>
  <li> Jun 2024: Completed 5 years working at Fidelity Investments </li>
  <li> Jun 2024: I am now a Kaggle Dataset Expert <a href="https://kaggle.com/sohomghosh/datasets" target="_blank">(link)</a> </li>
