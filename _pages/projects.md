@@ -19,6 +19,12 @@ PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, 
 
 # Selected Projects
 
+## Fidelity Assistant
+Expeimenting with various content based filtering, collaborative filtering, pattern mining algorithms, and Large Language Models based approaches to predict the next interaction of a customer during a chat session
+
+#### Relevant Publications: 
+- "Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis" in Frontiers in Artificial Intelligence (Journal)
+
 ## Voice of Customers
 Experimented with Large Language Models (T5, Falcon, MPT, Open‑Laama). Created Bi‑LSTM, T5, LED & BART based models for summarizing &
 extracting multiple themes from call transcripts. Used Agglomerative Hierarchical Clustering recursively to group similar themes. Designed
@@ -33,7 +39,7 @@ ii) Workflow for different processes were updated leading to increase in Net Pro
 iii) Competent solution to address the student debt crisis was created which lead to 60% increase in enrollment, 59K yearly payments & $200M+ being paid to the participants.
 
 #### Relevant Publications: 
-- "AUTOMATED ANALYSIS OF CUSTOMER INTERACTION TEXT TO GENERATE CUSTOMER INTENT INFORMATION AND HIERARCHY OF CUSTOMER ISSUES", US Patent publication No. US20230112369A1
+- "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues", US Patent publication No. US20230112369A1
   
 ## Retrieval Augmented Generation (RAG) on Call Transcripts
 Experimented with Retrieval Augmented Generation (RAG) to answer business queries from call transcripts. Worked on various chunking and denoising strategies. Explored several frameworks like LangChain, LlamaIndex, FAISS, Chroma DB, etc.
