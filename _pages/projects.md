@@ -20,7 +20,7 @@ PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, 
 # Selected Projects
 
 ## Fidelity Assistant
-Expeimenting with various content based filtering, collaborative filtering, pattern mining algorithms, and Large Language Models based approaches to predict the next interaction of a customer during a chat session
+Experimenting with various content based filtering, collaborative filtering, pattern mining algorithms, and Large Language Models based approaches to predict the next interaction of a customer during a chat session
 
 #### Relevant Publications: 
 - "Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis" in Frontiers in Artificial Intelligence (Journal)
