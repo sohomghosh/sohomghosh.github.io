@@ -23,7 +23,7 @@ PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, 
 Experimenting with various content based filtering, collaborative filtering, pattern mining algorithms, and Large Language Models based approaches to predict the next interaction of a customer during a chat session
 
 #### Relevant Publications: 
-- "Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis" in Frontiers in Artificial Intelligence (Journal)
+- "Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis" in Frontiers in Artificial Intelligence (Journal) <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.868085/full" target="_blank">(link)</a>
 
 ## Voice of Customers
 Experimented with Large Language Models (T5, Falcon, MPT, Open‑Laama). Created Bi‑LSTM, T5, LED & BART based models for summarizing &
@@ -39,7 +39,8 @@ ii) Workflow for different processes were updated leading to increase in Net Pro
 iii) Competent solution to address the student debt crisis was created which lead to 60% increase in enrollment, 59K yearly payments & $200M+ being paid to the participants.
 
 #### Relevant Publications: 
-- "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues", US Patent publication No. US20230112369A1
+- "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues", US Patent publication No. US20230112369A1 <a href="https://patents.google.com/patent/US20230112369A1/en" target="_blank">(link)</a>
+- "Voice of the customer: Changing possibilities with AI" <a href="https://www.businesstoday.in/opinion/columns/story/voice-of-the-customer-changing-possibilities-with-ai-335236-2022-05-26" target="_blank">(link)</a>
   
 ## Retrieval Augmented Generation (RAG) on Call Transcripts
 Experimented with Retrieval Augmented Generation (RAG) to answer business queries from call transcripts. Worked on various chunking and denoising strategies. Explored several frameworks like LangChain, LlamaIndex, FAISS, Chroma DB, etc.
@@ -53,8 +54,8 @@ Making the investment process more inclusive so that even the economically lower
 - Improving reach & engagment of financial social media posts
 
 #### Relevant Publications
-- "FinRAD: Financial Readability Assessment Dataset - 13,000+ Definitions of Financial Terms for Measuring Readability" in FNP@LREC-2022
-- "Generator-Guided Crowd Reaction Assessment" in TheWebConf (WWW) 2024
+- "FinRAD: Financial Readability Assessment Dataset - 13,000+ Definitions of Financial Terms for Measuring Readability" in FNP@LREC-2022 <a href="https://aclanthology.org/2022.fnp-1.1/" target="_blank">(link)</a>
+- "Generator-Guided Crowd Reaction Assessment" in TheWebConf (WWW) 2024 <a href="https://arxiv.org/abs/2403.09702" target="_blank">(link)</a>
 
 
 ## Improved Investing
@@ -65,9 +66,9 @@ Improving the journey of investments
 - Extracting relationship between financial entities
 
 #### Relevant Publications: 
-- "Term Expansion and FinBERT fine-tuning for Hypernym and Synonym Ranking of Financial Terms" in FinNLP@IJCAI 2021
-- "Learning to Rank Hypernyms of Financial Terms using Semantic Textual Similarity" in SN Computer Science (Springer) 2023
-- "The Mask One At a Time Framework for Detecting the Relationship between Financial Entities" in FIRE 2023
+- "Term Expansion and FinBERT fine-tuning for Hypernym and Synonym Ranking of Financial Terms" in FinNLP@IJCAI 2021 <a href="https://aclanthology.org/2021.finnlp-1.8.pdf" target="_blank">(link)</a>
+- "Learning to Rank Hypernyms of Financial Terms using Semantic Textual Similarity" in SN Computer Science (Springer) 2023 <a href="https://arxiv.org/abs/2303.13475" target="_blank">(link)</a>
+- "The Mask One At a Time Framework for Detecting the Relationship between Financial Entities" in FIRE 2023 <a href="https://easychair.org/publications/preprint/FKKW/open" target="_blank">(link)</a>
 
 
 ## Impactful (Green) Investing
@@ -80,8 +81,8 @@ Considering environmental aspects while investing
 - Identifying ESG impact duration
 
 #### Relevant Publications: 
-- "Ranking Environment, Social And Governance Related Concepts And Assessing Sustainability Aspects Of Financial Texts" in IJCAI-ECAI 2022
-- "A low resource framework for Multi-lingual ESG Impact Type Identification" in FinNLP@IJCNLP-AACL 2023
+- "Ranking Environment, Social And Governance Related Concepts And Assessing Sustainability Aspects Of Financial Texts" in IJCAI-ECAI 2022 <a href="https://aclanthology.org/2022.finnlp-1.33/" target="_blank">(link)</a>
+- "A low resource framework for Multi-lingual ESG Impact Type Identification" in FinNLP@IJCNLP-AACL 2023 <a href="https://aclanthology.org/2023.finnlp-2.8/" target="_blank">(link)</a>
 
 
 ## Informed Investing
@@ -94,24 +95,30 @@ Keeping the investors informed and helping them to make data driven decisions
 - Fine-grained Argument Understanding in Financial Texts
 
 #### Relevant Publications: 
-- "LIPI at the NTCIR-16 FinNum-3 Task: Ensembling transformer based models to detect in-claim numerals in Financial Conversation" in NTCIR-16 2022
-- "Evaluating Impact of Social Media Posts by Executives on Stock Prices" in FIRE 2022
-- "LIPI at the FinNLP-2022 ERAI Task: Ensembling Sentence Transformers for Assessing Maximum Possible Profit and Loss from Online Financial Posts" in FinNLP@EMNLP 2022
-- "LIPI at the NTCIR-17 FinArg-1 Task: Using Pre-trained Language Models for Comprehending Financial Arguments" in NTCIR-17 2023
+- "LIPI at the NTCIR-16 FinNum-3 Task: Ensembling transformer based models to detect in-claim numerals in Financial Conversation" in NTCIR-16 2022 <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings16/pdf/ntcir/02-NTCIR16-FINNUM-GhoshS.pdf" target="_blank">(link)</a>
+- "Evaluating Impact of Social Media Posts by Executives on Stock Prices" in FIRE 2022 <a href="https://arxiv.org/abs/2211.01287" target="_blank">(link)</a>
+- "LIPI at the FinNLP-2022 ERAI Task: Ensembling Sentence Transformers for Assessing Maximum Possible Profit and Loss from Online Financial Posts" in FinNLP@EMNLP 2022 <a href="https://aclanthology.org/2022.finnlp-1.13/" target="_blank">(link)</a>
+- "LIPI at the NTCIR-17 FinArg-1 Task: Using Pre-trained Language Models for Comprehending Financial Arguments" in NTCIR-17 2023 <a href="https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings17/pdf/ntcir/04-NTCIR17-FINARG-ChakrabortyS.pdf" target="_blank">(link)</a>
 
 ## Indic Investing
 Helping Indians to manage their wealth
 
 #### Relevant Publications: 
-- "Financial Argument Analysis in Bengali" in FIRE 2023
-- "IndicFinNLP: Financial Natural Language Processing for Indian Languages" in LREC-COLING 2024
+- "Financial Argument Analysis in Bengali" in FIRE 2023 <a href="https://easychair.org/publications/preprint/ZZpZ/open" target="_blank">(link)</a>
+- "IndicFinNLP: Financial Natural Language Processing for Indian Languages" in LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.789/" target="_blank">(link)</a>
 
 ## FinNLP tools
 Open sourcing tools for analysing financial texts
 
 #### Relevant Publications: 
-- "FinRead: A Transfer Learning Based Tool to Assess Readability of Definitions of Financial Terms" in ICON-2021
-- "Fincat: Financial numeral claim analysis tool" in FinWeb@WWW 2022
-- "Fincat-2:  An enhanced Financial Numeral Claim Analysis Tool" in Software Impacts (Elsevier) 2022
-- "FLUEnT: Financial Language Understandability Enhancement Toolkit" in CODS-COMAD 2023
+- "FinRead: A Transfer Learning Based Tool to Assess Readability of Definitions of Financial Terms" in ICON-2021 <a href="https://aclanthology.org/2021.icon-main.81/" target="_blank">(link)</a>
+- "Fincat: Financial numeral claim analysis tool" in FinWeb@WWW 2022 <a href="https://arxiv.org/abs/2202.00631" target="_blank">(link)</a>
+- "Fincat-2:  An enhanced Financial Numeral Claim Analysis Tool" in Software Impacts (Elsevier) 2022 <a href="https://www.sciencedirect.com/science/article/pii/S2665963822000367" target="_blank">(link)</a>
+- "FLUEnT: Financial Language Understandability Enhancement Toolkit" in CODS-COMAD 2023 <a href="https://easychair.org/publications/preprint/cWW5/open" target="_blank">(link)</a>
 
+## Doctoral Thesis
+
+### Summary
+<a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(link)</a>
+### Poster
+<a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">(link)</a>
