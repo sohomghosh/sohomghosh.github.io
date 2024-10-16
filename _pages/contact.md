@@ -1,3 +1,12 @@
+---
+layout: default
+title: contact
+permalink: /contact/
+description: 
+nav: true
+nav_order: 6
+---
+
 # Contact Me
 
 If you have any questions, need further information, or just want to say hello, here are the ways you can get in touch with me:
