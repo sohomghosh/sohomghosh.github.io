@@ -53,7 +53,7 @@ nav_order: 6
   <summary>2024</summary>
 <ul>
  <li> Oct 2024: Received Travel Grant to attend IndoML 2024 </li>
- <li> Oct 2024: Completed Bali pass trek (Altitude: 16,207 ft) & received Trekker for Life Award from IndiaHikes </li>
+ <li> Oct 2024: Completed Bali pass trek (Altitude: 16,207 ft), visited Yamunotri Dham & received Trekker for Life Award from IndiaHikes </li>
  <li> Sep 2024: Received patent grant award from Fidelity Investments </li>
  <li> Aug 2024: Received SIGIR Travel Grant to present paper at CIKM 2024 </li>
  <li> Aug 2024: Served as a panelist at the launch event of Fidelity Writer's Premier League </li>
