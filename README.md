@@ -26,6 +26,20 @@ Projects
 For projects, update the following file:
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/projects.md
 
+To add a newpage:
+Create the page as markdown. Modify & add the following at the top of the page.
+
+---
+layout: default
+title: contact
+permalink: /contact/
+description: 
+nav: true
+nav_order: 6
+---
+
+May include similar content in collections section of _config.yml
+
 After making changes if they are not being visible in the site, follow the steps mentioned below
 Actions -> Deploy site -> Run Workflow -> Run Workflow (green)
 
