@@ -27,7 +27,7 @@ nav_order: 6
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
 * [CODS-COMAD 2023](https://cods-comad.in/2023/awards.php){:target="_blank"}: **Honourable Mention at the Young Researchers’ Symposium Track** (Jan 2023)
 * [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}: **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021)
-* [IndiaHikes](https://indiahikes.com/){:target="_blank"}: **Green Getter** (Jan 2021)
+* [IndiaHikes](https://indiahikes.com/){:target="_blank"}: **Green Getter** (Jan 2021), **Trekker for Life** (Oct 2024)
 * [Times Internet](https://timesinternet.in/){:target="_blank"} (Times Business Solutions): **Rockstar Award** (March 2018)
 * Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: **Best Presentation Award** (22nd West Bengal State Science and Technology Congress, Mar 2015)
 
@@ -52,6 +52,10 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
+ <li> Oct 2024: Received Travel Grant to attend IndoML 2024 </li>
+ <li> Oct 2024: Completed Bali pass trek (Altitude: 16,207 ft) & received Trekker for Life Award from IndiaHikes </li>
+ <li> Sep 2024: Received patent grant award from Fidelity Investments </li>
+ <li> Aug 2024: Received SIGIR Travel Grant to present paper at CIKM 2024 </li>
  <li> Aug 2024: Served as a panelist at the launch event of Fidelity Writer's Premier League </li>
  <li> Jul 2024: My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(pre-print)</a>  </li>
  <li> Jul 2024: Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </li>
