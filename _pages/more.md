@@ -23,10 +23,12 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
 
 # Awards
+* [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received Travel Grant
+* [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR Travel Grant covering conference registration charges
 * [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica and secured the 2nd position in Embassy Office Parks' Got Talent** out of around 50 contestants at EGL, Bangalore(Mar 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
 * [CODS-COMAD 2023](https://cods-comad.in/2023/awards.php){:target="_blank"}: **Honourable Mention at the Young Researchers’ Symposium Track** (Jan 2023)
-* [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}: **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021)
+* [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}:  **Patent Grant Award** (2024), **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021)
 * [IndiaHikes](https://indiahikes.com/){:target="_blank"}: **Green Getter** (Jan 2021), **Trekker for Life** (Oct 2024)
 * [Times Internet](https://timesinternet.in/){:target="_blank"} (Times Business Solutions): **Rockstar Award** (March 2018)
 * Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: **Best Presentation Award** (22nd West Bengal State Science and Technology Congress, Mar 2015)
