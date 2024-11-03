@@ -103,6 +103,11 @@ Keeping the investors informed and helping them to make data driven decisions
 ## Indic Investing
 Helping Indians to manage their wealth
 
+#### Topics:
+- Financial Argument Analysis in Bengali
+- Financial Natural Language Processing for Indian Languages
+- Data driven approach for predicting success of Indian IPOs 
+  
 #### Relevant Publications: 
 - "Financial Argument Analysis in Bengali" in FIRE 2023 <a href="https://easychair.org/publications/preprint/ZZpZ/open" target="_blank">(link)</a>
 - "IndicFinNLP: Financial Natural Language Processing for Indian Languages" in LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.789/" target="_blank">(link)</a>
@@ -122,3 +127,5 @@ Open sourcing tools for analysing financial texts
 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(link)</a>
 ### Poster
 <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">(link)</a>
+### Video
+<a href="https://www.youtube.com/watch?v=L7bd1lgvQKY" target="_blank">(link)</a>
