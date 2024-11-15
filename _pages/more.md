@@ -12,7 +12,7 @@ nav_order: 6
   * *Aug 2023:* Delivered a online invited talk on **Financial Natural Language Processing** at the Faculty Development Program organized by Brainware University, India
   * *Jan 2023:* Delivered an online invited talk on **Data Visualization** at the Annual Refresher Programme being organized by Haldia Institute of Technology, India 
   * *Dec 2021:* Delivered an online invited talk at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a>
-  * *Jun 2020 - Dec 2023:* Disseminated knowledge at various internal forums of Fidelity Investments (Collaboration Innovation & Experimentation Track, Data Science Bootcamps, Research Seminars (India, US), BA&R Competency group, etc.)
+  * *Jun 2020 - Nov 2024:* Disseminated knowledge at various internal forums of Fidelity Investments (Collaboration Innovation & Experimentation Track, Data Science Bootcamps, Research Seminars (India, US), BA&R Competency group, Writer's Premier League, etc.)
   * *Feb 2020 - Mar 2020:* I volunteered for FidCares (A CSR initiative by Fidelity Investments).
   * *Jul 2016 - Jan 2017:* Trained several corporates of one of the World’s Largest Consulting Firm on **Text Analytics and Machine Learning using R** in association with Fn MathLogic Consulting Services Pvt. Ltd.
   * *Sep 2015 - Jan 2016:* Taught **Big Data Analytics** to corporates in association with NIVT, Kolkata (a unit of Novel R&D India Pvt. Ltd.). 
@@ -23,12 +23,12 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
 
 # Awards
-* [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received Travel Grant
-* [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR Travel Grant covering conference registration charges
-* [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica and secured the 2nd position in Embassy Office Parks' Got Talent** out of around 50 contestants at EGL, Bangalore(Mar 2024)
+* [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received Travel Grant (Dec 2024)
+* [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR Travel Grant covering conference registration charges (Oct 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
 * [CODS-COMAD 2023](https://cods-comad.in/2023/awards.php){:target="_blank"}: **Honourable Mention at the Young Researchers’ Symposium Track** (Jan 2023)
-* [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}:  **Patent Grant Award** (2024), **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021)
+* [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}:  **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021), **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Patent Grant Award** (2024)
+* [ENERGIZE 2024](https://www.embassyofficeparks.com/events/energizework/embassy-office-parks-got-talent/){:target="_blank"}: **Played Harmonica and secured the 2nd position in Embassy Office Parks' Got Talent** out of around 50 contestants at EGL, Bangalore (Mar 2024)
 * [IndiaHikes](https://indiahikes.com/){:target="_blank"}: **Green Getter** (Jan 2021), **Trekker for Life** (Oct 2024)
 * [Times Internet](https://timesinternet.in/){:target="_blank"} (Times Business Solutions): **Rockstar Award** (March 2018)
 * Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: **Best Presentation Award** (22nd West Bengal State Science and Technology Congress, Mar 2015)
@@ -54,6 +54,8 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
+ <li> Nov 2024: My journey through music and fitness, along with my passion for trekking, was featured in the November 2024 edition of Cafe Chronicles, Fidelity's internal magazine. </li>
+ <li> Nov 2024: Played Harmonica with Fidelity's in-house band during their Thanksgiving (Ufest-2024) show. </li>
  <li> Oct 2024: Received Travel Grant to attend IndoML 2024 </li>
  <li> Oct 2024: Completed Bali pass trek (Altitude: 16,207 ft), visited Yamunotri Dham & received Trekker for Life Award from IndiaHikes </li>
  <li> Sep 2024: Received patent grant award from Fidelity Investments </li>
