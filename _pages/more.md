@@ -23,6 +23,8 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
 
 # Awards
+* [Pingala Interactions in Computing (PIC-2025)](https://event.india.acm.org/pic/){:target="_blank"}: Received Travel Grant (Feb 2026)
+* [Academic Research and Careers for Students (ARCS-2025)](https://event.india.acm.org/arcs/home/){:target="_blank"}: Received Travel Grant (Feb 2026)
 * [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received Travel Grant (Dec 2024)
 * [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR Travel Grant covering conference registration charges (Oct 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
@@ -54,9 +56,11 @@ nav_order: 6
 <details>
   <summary>2024</summary>
 <ul>
- <li> Nov 2024: My journey through music and fitness, along with my passion for trekking, was featured in the November 2024 edition of Cafe Chronicles, Fidelity's internal magazine. </li>
+ <li> Dec 2024: Attended IndoML 2024 at Goa, India. Received Travel Grant for it. </li>
+ <li> Dec 2024: Visited Kolkata (Swami ji's residence, Jorasanko Thakur bari, and Ma-er bari Bagbazar) </li>
+ <li> Nov 2024: Visited Shirdi, Aurangabad (Sambhaji Nagar), Nashik, and Pune. </li>
+ <li> Nov 2024: My journey with music and fitness, along with my passion for trekking, was featured in the November 2024 edition of Cafe Chronicles, Fidelity's internal magazine. </li>
  <li> Nov 2024: Played Harmonica with Fidelity's in-house band during their Thanksgiving (Ufest-2024) show. </li>
- <li> Oct 2024: Received Travel Grant to attend IndoML 2024 </li>
  <li> Oct 2024: Completed Bali pass trek (Altitude: 16,207 ft), visited Yamunotri Dham & received Trekker for Life Award from IndiaHikes </li>
  <li> Sep 2024: Received patent grant award from Fidelity Investments </li>
  <li> Aug 2024: Received SIGIR Travel Grant to present paper at CIKM 2024 </li>
