@@ -26,6 +26,10 @@ Projects
 For projects, update the following file:
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/projects.md
 
+Contact
+For updating contact information, edit the following page:
+https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/contact.md
+
 To add a newpage:
 Create the page as markdown. Modify & add the following at the top of the page.
 
