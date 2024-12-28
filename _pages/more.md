@@ -57,7 +57,8 @@ nav_order: 6
   <summary>2024</summary>
 <ul>
  <li> Dec 2024: Attended IndoML 2024 at Goa, India. Received Travel Grant for it. </li>
- <li> Dec 2024: Visited Kolkata (Swami ji's residence, Jorasanko Thakur bari, and Ma-er bari Bagbazar) </li>
+ <li> Dec 2024: I reached Level 6 of Google Local Guides. </li>
+ <li> Dec 2024: Visited Kolkata (Swami ji's residence, Jorasanko Thakur bari, and Ma-er bari Bagbazar). </li>
  <li> Nov 2024: Visited Shirdi, Aurangabad (Sambhaji Nagar), Nashik, and Pune. </li>
  <li> Nov 2024: My journey with music and fitness, along with my passion for trekking, was featured in the November 2024 edition of Cafe Chronicles, Fidelity's internal magazine. </li>
  <li> Nov 2024: Played Harmonica with Fidelity's in-house band during their Thanksgiving (Ufest-2024) show. </li>
