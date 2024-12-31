@@ -23,8 +23,8 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
 
 # Awards
-* [Pingala Interactions in Computing (PIC-2025)](https://event.india.acm.org/pic/){:target="_blank"}: Received Travel Grant (Feb 2026)
-* [Academic Research and Careers for Students (ARCS-2025)](https://event.india.acm.org/arcs/home/){:target="_blank"}: Received Travel Grant (Feb 2026)
+* [Pingala Interactions in Computing (PIC-2025)](https://event.india.acm.org/pic/){:target="_blank"}: Received Travel Grant (Feb 2025)
+* [Academic Research and Careers for Students (ARCS-2025)](https://event.india.acm.org/arcs/home/){:target="_blank"}: Received Travel Grant (Feb 2025)
 * [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received Travel Grant (Dec 2024)
 * [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR Travel Grant covering conference registration charges (Oct 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
