@@ -22,7 +22,7 @@ Here is my [CV](../assets/pdf/Sohom_Resume.pdf){:target="_blank"}. <br>
 
 In addition to being a US patent holder, co-author of the books [Natural Language Processing Fundamentals](https://books.google.co.in/books?id=i8-PDwAAQBAJ&newbks=0){:target="_blank"} and [The Natural Language Processing Workshop](https://www.google.co.in/books/edition/The_Natural_Language_Processing_Workshop/Gif4DwAAQBAJ){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in international venues of repute, such as **ACM TheWebConf (WWW), ACM CIKM, COLING, LREC, IEEE BigData, ACM CODS-COMAD** and so on. I hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"} and a **Bachelor's Degree** in **Computer Science and Engineering** from [HIT-K](https://www.heritageit.edu/){:target="_blank"}. 
 
-Outside work, I like [traveling](https://youtube.com/playlist?list=PLWVXvBh2xmj8BHN7jBCsaKpd5JP4xOT7T){:target="_blank"} and playing [harmonica](https://www.youtube.com/playlist?list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"}. Being an [adventure lover](https://www.youtube.com/playlist?list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
+Outside work, I like [travelling](https://youtube.com/playlist?list=PLWVXvBh2xmj8BHN7jBCsaKpd5JP4xOT7T){:target="_blank"} and playing [harmonica](https://www.youtube.com/playlist?list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw){:target="_blank"}. Being an [adventure lover](https://www.youtube.com/playlist?list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq){:target="_blank"} and a fitness buff, I believe that **"Health is Wealth"**.
 
 <style>
 td {
@@ -36,7 +36,7 @@ td {
 <col width="60px">
 <col width="650px">
    <tr><td><b>Summary 2024</b></td> <td> Eureka Enablers & Patent Grant Award, 5 year completion @ Fidelity. Publications: <b>LREC-COLING, The Web Conference (WWW), CIKM, FinNLP-KDF-ECONLP</b>. Travel Grants: CODS-COMAD 2024, CIKM 2024, IndoML 2024. </td></tr>
-  <tr><td><b>Dec 2024</b></td> <td> Got selected to attend Pingala Interactions in Computing (PIC-2025) </td></tr>
+  <tr><td><b>Dec 2024</b></td> <td> Got selected to attend Pingala Interactions in Computing (PIC-2025) <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">(poster)</a> </td></tr>
   <tr><td><b>Jul 2024</b></td> <td> My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(pre-print)</a> </td></tr>
   <tr><td><b>Jul 2024</b></td> <td> Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </td></tr>
   <tr><td><b>Mar 2024</b></td> <td> Our paper, "Generator-Guided Crowd Reaction Assessment" got accepted at TheWebConf (WWW) 2024 <a href="https://arxiv.org/abs/2403.09702" target="_blank">(pre-print)</a> </td></tr>
