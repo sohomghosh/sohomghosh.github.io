@@ -20,7 +20,7 @@ PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, 
 # Selected Projects
 
 ## Fidelity Assistant
-Experimenting with various content based filtering, collaborative filtering, pattern mining algorithms, and Large Language Models based approaches to predict the next interaction of a customer during a chat session
+Experimenting with various content based filtering, collaborative filtering, pattern mining algorithms, network graphs and Large Language Models (LLMs) based approaches to predict the next interaction (questions, quicklinks) of a customer during a chat session. Using LLMs to evaluate effectiveness of FA sessions. 
 
 #### Relevant Publications: 
 - "Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis" in Frontiers in Artificial Intelligence (Journal) <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.868085/full" target="_blank">(link)</a>
@@ -124,6 +124,8 @@ Open sourcing tools for analysing financial texts
 
 ## Doctoral Thesis
 
+### Title
+#### Using Computational Linguistics to Demystify Financial Texts 
 ### Summary
 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(link)</a>
 ### Poster
