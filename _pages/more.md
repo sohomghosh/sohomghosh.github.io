@@ -2,7 +2,7 @@
 layout: default
 permalink: /more/
 title: more
-description: 
+description: Academic Service, Awards, Certifications, Invited Talks on NLP / GenAI / ML / Data Science
 nav: true
 nav_order: 6
 ---
