@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sr. Data Scientist at Fidelity | Researcher at Jadavpur University</a>
+subtitle: <a href='#'>Sr. Data Scientist | Building GenAI Solutions for Real-World Impact</a>
 
 profile:
   align: right
