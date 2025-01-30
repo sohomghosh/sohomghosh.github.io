@@ -2,14 +2,14 @@
 layout: default
 title: contact
 permalink: /contact/
-description: 
+description: Contact me for building Gen AI, LLM, RAG, NLP, ML solutions
 nav: true
 nav_order: 6
 ---
 
 # Contact Me
 
-If you have any questions, need further information, or just want to say hello, here are the ways you can get in touch with me:
+Let’s Build AI Solutions Together →
 
 ### Email
 You can reach me directly via email at:
