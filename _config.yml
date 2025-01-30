@@ -7,8 +7,7 @@ first_name: Sohom
 middle_name: 
 last_name: Ghosh
 email: sohom1ghosh@gmail.com
-description: Data Scientist, Machine Learning, Large Language Models, LLM Fine-Tuning, Data Science, Python, PyTorch, Natural Language Processing, Multi-modal AI, Multi-lingual NLP, Retrieval-Augmented
-Generation, MLOps, Financial NLP, AWS, AI Agents, Generative AI #> # the ">" symbol means to ignore newlines until "footer_text:"
+description: Data Scientist, Machine Learning, Large Language Models, LLM Fine-Tuning, Data Science, Python, PyTorch, Natural Language Processing, Multi-modal AI, Multi-lingual NLP, Retrieval-Augmented Generation, MLOps, Financial NLP, AWS, AI Agents, Generative AI #> # the ">" symbol means to ignore newlines until "footer_text:"
   #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
