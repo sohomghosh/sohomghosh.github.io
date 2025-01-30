@@ -2,7 +2,7 @@
 layout: default
 permalink: /more/
 title: more
-description: Academic Service, Awards, Certifications, Invited Talks on NLP / GenAI / ML / Data Science
+description: Academic Service, Testimonials, Awards, Certifications, Invited Talks on NLP / GenAI / ML / Data Science
 nav: true
 nav_order: 6
 ---
@@ -51,6 +51,28 @@ nav_order: 6
 * Data Mining (IIT Kharagpur)
 * Big Data Analytics (IIT Kharagpur)
 * Social and Economic Networks: Models and Analysis (Coursera)
+
+# Testimonials
+
+ Dr. Chung-Chi Chen (Researcher, Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology, Japan) says:
+```
+"I collaborated with Sohom on a project aimed at simplifying texts for investors and assessing crowd reactions. He showcased his diligence and passion for exploring diverse solutions to challenging problems in our regular weekly meetings. Whenever Prof. Naskar and I proposed a new method to explore, Sohom would impress us by presenting multiple alternative approaches the following week, demonstrating his keen scientific acumen and ability to extrapolate findings from singular instances to broader contexts.
+
+Sohom also made contributions to several shared tasks I led, focused on advancing NLP applications within the FinTech sector. As the organizer of shared tasks, I was particularly struck by Sohom's creativity. His proposals often offered unique perspectives. This ability speaks volumes about his innovative mindset.
+
+On a personal note, working with Sohom has been a joy. His combination of easygoing personality, hard work, passion, and creativity make him a delightful colleague." 
+```
+
+Dr. Serdar Kadioglu (Group VP of AI at Fidelity & Adjunct Professor at Brown University, USA) says:
+```
+"Sohom proved to be an extremely efficient and hard-working Data Scientist throughout our interaction in a cross-team initiative as part of the AI Center at Fidelity. 
+
+Our research focused on unsupervised learning from sequential data, and Sohom mastered our intensive research rapidly. He then contributed significantly with new applications for Intrusion Detection, demonstrating results that outperform the state-of-the-art on established benchmarks. 
+
+Beyond our research collaboration, his expertise in Natural Language Processing led to several business-relevant artifacts and helped other data scientists. Notable examples include his work on transformer-based ensemble learning to classify the scope of articles and question-answer retrieval systems, focusing on ill-formed or incomplete search queries, which is of great practical interest in the industry. 
+
+Finally, Sohom is a fantastic team player, yet, he is not afraid to take the initiative when needed, especially under tight deadlines. Overall, Sohom has demonstrated great competence and enthusiasm in all my interactions with him."
+```
 
 # Yearwise Updates
 <details>
