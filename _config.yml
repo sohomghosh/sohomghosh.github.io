@@ -7,7 +7,8 @@ first_name: Sohom
 middle_name: 
 last_name: Ghosh
 email: sohom1ghosh@gmail.com
-#description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: Data Scientist, Machine Learning, Large Language Models, LLM Fine-Tuning, Data Science, Python, PyTorch, Natural Language Processing, Multi-modal AI, Multi-lingual NLP, Retrieval-Augmented
+Generation, MLOps, Financial NLP, AWS, AI Agents, Generative AI #> # the ">" symbol means to ignore newlines until "footer_text:"
   #A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 # footer_text: >
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -116,7 +117,7 @@ google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: lsGZViC2XRZuBwctb1M5uPh6pRryI9AUdHrKNBVQAPo # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -371,7 +372,7 @@ imagemagick:
 
 enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
-enable_google_verification: false # enables google site verification
+enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
