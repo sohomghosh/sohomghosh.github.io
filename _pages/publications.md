@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: list of publications in ACM TheWebConf (WWW), ACM CIKM, COLING, LREC, IEEE BigData, ACM CODS-COMAD, etc.
+description: List of selected papers which got published in ACM TheWebConf (WWW), ACM CIKM, COLING, LREC, IEEE BigData, ACM CODS-COMAD, etc.
 nav: true
 nav_order: 2
 ---
