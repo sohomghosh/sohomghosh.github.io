@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sr. Data Scientist | Building GenAI Solutions for Real-World Impact</a>
+subtitle: <h1>Sohom Ghosh </h1> <br> <a href='#'>Sr. Data Scientist | Building GenAI Solutions for Real-World Impact</a>
 
 profile:
   align: right
@@ -15,8 +15,6 @@ news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-nav: true
-nav_order: 1
 ---
 
 *Namaste (নমস্কার) 🙏*, I am **Sohom Ghosh**. I like developing innovative solutions for solving real life challenges. Over the last 8.5+ years, I have been **toiling to improve digital experience & financial well-being** of millions of users across different industries like **Internet, Financial Services** and so on. Presently, I am working as a **Senior Data Scientist** for the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}. Additionally, I am a researcher at the Computer Science & Engineering department of Jadavpur University, India. Before this, I worked for [Times Internet](https://timesinternet.in){:target="_blank"} (digital wing of The Times Group) and [MathLogic](https://www.linkedin.com/company/mathlogic/){:target="_blank"} (an AI consulting startup). My research interests include **Industrial Applications of Natural Language Processing, Large Language Models, and GenAI**. Now my mission is to demystify financial texts for social good.<br>
