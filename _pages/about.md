@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <h1>Sohom Ghosh </h1> <br> <a href='#'>Sr. Data Scientist | Building GenAI Solutions for Real-World Impact</a>
+subtitle: <h2>Sohom Ghosh </h2> <br> <a href='#'>Sr. Data Scientist | Building GenAI Solutions for Real-World Impact</a>
 
 profile:
   align: right
