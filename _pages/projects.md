@@ -53,10 +53,10 @@ Making the investment process more inclusive so that even the economically lower
 #### Topics: 
 - Improving readability of financial texts
     - Skills: Data Curation, Machine Learning, Natural Language Processing, Readability, Transformers
-      ![finrad|width=10](../assets/img/finrad.png)
+      <img src="../assets/img/finrad.png" alt="FinRAD" width="750" height="500">
 - Improving reach & engagment of financial social media posts
     - Skills: Transformers, Large Language Models (ChatGPT, Claude), Social Media Analytics
-      ![ggea|width=10](../assets/img/GGEA_architecture_new.png)
+      <img src="../assets/img/GGEA_architecture_new.png" alt="ggea" width="750" height="500">
 
 #### Relevant Publications
 - "FinRAD: Financial Readability Assessment Dataset - 13,000+ Definitions of Financial Terms for Measuring Readability" in FNP@LREC-2022 <a href="https://aclanthology.org/2022.fnp-1.1/" target="_blank">(link)</a>
@@ -69,10 +69,10 @@ Improving the journey of investments
 #### Topics:
 - Extracting hypernyms of financial terms
     - Skills: Sentence Transformers, Ontology Mining, Natural Language Processing
-      ![finsim|width=10](../assets/img/hypernym_detection.jpg)
+      <img src="../assets/img/hypernym_detection.jpg" alt="hypernym" width="750" height="500">
 - Extracting relationship between financial entities
     - Skills: Relation Extraction between Entities, Financial Text Mining, Language Models
-      ![moat|width=10](../assets/img/MOAT_architecture.png)
+      <img src="../assets/img/MOAT_architecture.png" alt="moat" width="750" height="500">
 
 #### Relevant Publications: 
 - "Term Expansion and FinBERT fine-tuning for Hypernym and Synonym Ranking of Financial Terms" in FinNLP@IJCAI 2021 <a href="https://aclanthology.org/2021.finnlp-1.8.pdf" target="_blank">(link)</a>
@@ -123,7 +123,7 @@ Helping Indians to manage their wealth
     - Skills: Multi-lingual Natural Language Processing, Transfromers
 - Data driven approaches for predicting success of Indian IPOs 
     - Skills: Multi-modal Natural Language Processing, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Fine-tuning LLMs
-      ![ipo|width=10](../assets/img/ipo-methodology.png)
+      <img src="../assets/img/ipo-methodology.png" alt="ipo" width="750" height="500">
 -   Predicting Ratings of Indian IPOs from Red Herring Prospectus
     - Skills: Large Language Models, Small Language Models, Retrieval Augmented Generation (RAG)
     
@@ -142,7 +142,8 @@ Open sourcing tools for analysing financial texts
 - "Fincat: Financial numeral claim analysis tool" in FinWeb@WWW 2022 <a href="https://arxiv.org/abs/2202.00631" target="_blank">(link)</a>
 - "Fincat-2:  An enhanced Financial Numeral Claim Analysis Tool" in Software Impacts (Elsevier) 2022 <a href="https://www.sciencedirect.com/science/article/pii/S2665963822000367" target="_blank">(link)</a>
 - "FLUEnT: Financial Language Understandability Enhancement Toolkit" in CODS-COMAD 2023 <a href="https://easychair.org/publications/preprint/cWW5/open" target="_blank">(link)</a>
-  ![fluent|width=10](../assets/img/fluent_architecture.png)
+   <img src="../assets/img/fluent_architecture.png" alt="fluent" width="750" height="500">
+  
 
 ## Doctoral Thesis
 
