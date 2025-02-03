@@ -8,14 +8,15 @@ nav_order: 3
 ---
 
 # Skills
-- **Tools & Technologies:** Python, SQL & Cloud (AWS)
-- **Libraries & Frameworks:** PyTorch, Scikit‑learn, Pandas, Numpy, XG‑Boost, LightGBM, NLTK, SpaCy, Gradio, Spark, Hadoop, Transformers
-- **Algorithms & Concepts:** Regression (Linear/Logistic), Decision Trees, Random Forest, Gradient Boosting Machine, XGBoost, Clustering,
-PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, Retrieval Augmented Generation
+- **Languages & Libraries:** Core (Python, PyTorch, SQL & Cloud (AWS)), Machine Learning (Scikit-learn, Pandas, Numpy, XGBoost, LightGBM), Natural Language Processing (NLTK, SpaCy, Transformers, LangChain), User Interface (Gradio, Streamlit), Spark
+- **Algorithms & Concepts:** Regression (Linear/Logistic), Decision Trees, Random Forest, Gradient Boosting Machine, Clustering, PCA, Neural Networks, Deep Learning, Large Language Models, Prompt Engineering, RAG, Fine-tuning
 - **Others:** LaTeX, MS Office (Word, Excel, PowerPoint), Confluence, Git, Jira, Kanban, Mural
 - **Expertise:** Natural Language Processing / Understanding / Generation
 - **Domains:** FinTech (Financial Services + Technology), Consumer Internet based Products & Customer Analytics
-
+- **Relevant Coursework:** Technical - Natural Language Processing Specialization (Score >90%), Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Score>90%), Prompt Engineering, Large Language Models, Cloud - AWS, Machine Learning Engineering, etc.; Soft skills - Learnship Business English Level 10, Creating Effective Presentations, Creative Thinking; Research - Introduction to Research, NPTEL, Score: 87%, Rank: Top 1%, Domain - Mutual Funds, Stocks etc.
+- **Areas of Interest:** Applied NLP, GenAI, ML
+- **Soft Skills:** Critical thinking, Communication, Problem Solving, Self-learning, Resilience, Emotional intelligence
+- 
 
 # Selected Projects
 
