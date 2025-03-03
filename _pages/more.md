@@ -76,6 +76,14 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
 
 # Yearwise Updates
 <details>
+  <summary>2025</summary>
+<ul>
+ <li> Feb 2025: Attended Pingala Interactions in Computing (PIC-2025) and explored Coimbatore, India </li>
+ <li> Feb 2025: Attended ACM Academic Research and Careers for Students (ARCS-2025) and explored Mysuru, India </li>
+ <li> Jan 2025: Completed courses on Agentic AI </li>
+ </ul>
+</details>
+<details>
   <summary>2024</summary>
 <ul>
  <li> Dec 2024: Attended IndoML 2024 at Goa, India. Received Travel Grant for it. </li>
