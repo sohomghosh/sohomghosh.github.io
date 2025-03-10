@@ -149,6 +149,7 @@ Open sourcing tools for analysing financial texts
 
 ### Title
 #### Using Computational Linguistics to Demystify Financial Texts 
+<img src="../assets/img/phd_work_summary.gif" alt="phd_work_summary" width="750" height="500">
 ### Summary
 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(link)</a>
 ### Poster
