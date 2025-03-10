@@ -35,8 +35,9 @@ td {
 <table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
-   <tr><td><b>Summary 2024</b></td> <td> Eureka Enablers & Patent Grant Award, 5 year completion @ Fidelity. Publications: <b>LREC-COLING, The Web Conference (WWW), CIKM, FinNLP-KDF-ECONLP</b>. Travel Grants: CODS-COMAD 2024, CIKM 2024, IndoML 2024. </td></tr>
-  <tr><td><b>Dec 2024</b></td> <td> Got selected to attend Pingala Interactions in Computing (PIC-2025) <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">(poster)</a> </td></tr>
+  <tr><td><b>Feb 2025:</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 200 citations. Miles to go! </td></tr>
+  <tr><td><b>Feb 2025</b></td> <td> Presented <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">posters</a> & lightning talks at Pingala Interactions in Computing (PIC-2025) and ACM Academic Research and Careers for Students (ARCS-2025)  </td></tr> 
+  <tr><td><b>Summary 2024</b></td> <td> Eureka Enablers & Patent Grant Award, 5 year completion @ Fidelity. Publications: <b>LREC-COLING, The Web Conference (WWW), CIKM, FinNLP-KDF-ECONLP</b>. Travel Grants: CODS-COMAD 2024, CIKM 2024, IndoML 2024. </td></tr>
   <tr><td><b>Jul 2024</b></td> <td> My paper, "Demystifying Financial Texts Using Natural Language Processing" got accepted at CIKM-2024 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(pre-print)</a> </td></tr>
   <tr><td><b>Jul 2024</b></td> <td> Our US patent (No. 12033162), "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues" got granted <a href="https://patents.google.com/patent/US12033162B2/en" target="_blank">(link)</a> </td></tr>
   <tr><td><b>Mar 2024</b></td> <td> Our paper, "Generator-Guided Crowd Reaction Assessment" got accepted at TheWebConf (WWW) 2024 <a href="https://arxiv.org/abs/2403.09702" target="_blank">(pre-print)</a> </td></tr>
