@@ -18,34 +18,7 @@ nav_order: 3
 - **Soft Skills:** Critical thinking, Communication, Problem Solving, Self-learning, Resilience, Emotional intelligence
 
 
-# Selected Projects
-
-## Fidelity Assistant
-Experimenting with various content based filtering, collaborative filtering, pattern mining algorithms, network graphs and Large Language Models (LLMs) based approaches to predict the next interaction (questions, quicklinks) of a customer during a chat session. Using LLMs to evaluate effectiveness of FA sessions. 
-
-#### Relevant Publications: 
-- "Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis" in Frontiers in Artificial Intelligence (Journal) <a href="https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.868085/full" target="_blank">(link)</a>
-
-## Voice of Customers
-Experimented with Large Language Models (T5, Falcon, MPT, Open‑Laama). Created Bi‑LSTM, T5, LED & BART based models for summarizing &
-extracting multiple themes from call transcripts. Used Agglomerative Hierarchical Clustering recursively to group similar themes. Designed
-the annotation job using Appen and administered a team of 98 annotators. <br>
-Applications: <br>
-i) Automated short note generation for calls, <br>
-ii) Comprehending reasons behind high call volumes, <br>
-iii) Featurization of textual interaction data. <br>
-Impact: <br>
-i) Issues related to login were identified & resolved leading to 10% increase in customer satisfaction score <br>
-ii) Workflow for different processes were updated leading to increase in Net Promoter Score and Customer Ease Score by 18 points & 27% respectively <br>
-iii) Competent solution to address the student debt crisis was created which lead to 60% increase in enrollment, 59K yearly payments & $200M+ being paid to the participants.
-
-#### Relevant Publications: 
-- "Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues", US Patent publication No. US20230112369A1 <a href="https://patents.google.com/patent/US20230112369A1/en" target="_blank">(link)</a>
-- "Voice of the customer: Changing possibilities with AI" <a href="https://www.businesstoday.in/opinion/columns/story/voice-of-the-customer-changing-possibilities-with-ai-335236-2022-05-26" target="_blank">(link)</a>
-  
-## Retrieval Augmented Generation (RAG) on Call Transcripts
-Experimented with Retrieval Augmented Generation (RAG) to answer business queries from call transcripts. Worked on various chunking and denoising strategies. Explored several frameworks like LangChain, LlamaIndex, FAISS, Chroma DB, etc.
-
+# Open Source Academic Research Projects
 
 ## Inclusive Investing
 Making the investment process more inclusive so that even the economically lower strata of the society can avail financial services.
