@@ -112,6 +112,7 @@ Helping Indians to manage their wealth
 - Multi-Modal Indian Earnings Calls Dataset to Predict Stock Prices
     - Skills: Multi-modal Language Models
       <img src="../assets/img/mimic-methodology.png" alt="mimic" width="750" height="500">
+
 #### Relevant Publications: 
 - "Financial Argument Analysis in Bengali" in FIRE 2023 <a href="https://easychair.org/publications/preprint/ZZpZ/open" target="_blank">(link)</a>
 - "IndicFinNLP: Financial Natural Language Processing for Indian Languages" in LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.789/" target="_blank">(link)</a>
