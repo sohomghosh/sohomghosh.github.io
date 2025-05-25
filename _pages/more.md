@@ -23,10 +23,10 @@ nav_order: 6
   * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
 
 # Awards
-* [Pingala Interactions in Computing (PIC-2025)](https://event.india.acm.org/pic/){:target="_blank"}: Received Travel Grant (Feb 2025)
-* [Academic Research and Careers for Students (ARCS-2025)](https://event.india.acm.org/arcs/home/){:target="_blank"}: Received Travel Grant (Feb 2025)
-* [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received Travel Grant (Dec 2024)
-* [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR Travel Grant covering conference registration charges (Oct 2024)
+* [Pingala Interactions in Computing (PIC-2025)](https://event.india.acm.org/pic/){:target="_blank"}: Received **Travel Grant** (Feb 2025)
+* [Academic Research and Careers for Students (ARCS-2025)](https://event.india.acm.org/arcs/home/){:target="_blank"}: Received **Travel Grant** (Feb 2025)
+* [IndoML 2024](https://indoml.in/2024/){:target="_blank"}: Received **Travel Grant** (Dec 2024)
+* [CIKM 2024](https://www.cikm2024.org/){:target="_blank"}: Received SIGIR **Travel Grant** covering conference registration charges (Oct 2024)
 * [CODS-COMAD 2024](https://cods-comad.in/){:target="_blank"}: **Travel Grant** (Jan 2024)
 * [CODS-COMAD 2023](https://cods-comad.in/2023/awards.php){:target="_blank"}: **Honourable Mention at the Young Researchers’ Symposium Track** (Jan 2023)
 * [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}:  **Excellence in Action** (Team Award, Q2 & Q4 2020),  **You've Earned It** (Individual and Team Award, 2020 & 2021) , **Shout-out** (2020), **Patent Filing Award** (2021), **Eureka Enablers** (Eureka Innovation Awards 2023), **On the Spot Award (India)** (2023), **Patent Grant Award** (2024)
@@ -36,6 +36,9 @@ nav_order: 6
 * Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: **Best Presentation Award** (22nd West Bengal State Science and Technology Congress, Mar 2015)
 
 # Certifications
+* [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/707a7c8e-0ae5-4e57-88c1-ae32bf0aeb78){:target="_blank"}
+* [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/accomplishments/50eccf0b-d34b-4d54-bc6e-da83a1956ca2){:target="_blank"}
+* [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/accomplishments/dcf1af96-6205-4c6e-af52-3df5ea369cd1?usp=sharing){:target="_blank"}
 * [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/verify/9366RC8ZNBAP){:target="_blank"}
 * [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/verify/PKVYZ97PLCDG){:target="_blank"}
 * [Business English Level 10 (Learnship GlobalEnglish)](https://drive.google.com/file/d/1jBsn0Ugco6W_uLZJP0LtfsoN6aALg05S/view?usp=sharing){:target="_blank"}
@@ -78,6 +81,13 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
 <details>
   <summary>2025</summary>
 <ul>
+
+ <li> May 2025: Submitted by PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India </li>
+ <li> May 2025: Celebrated Rabindra Jayanti - 2025 </li>
+ <li> Mar 2025: Played Holi </li>
+ <li> Mar 2025: Performed at EGL Got Talent ENERGIZE-2025 finals</li>
+ <li> Mar 2025: Attended IISc Open Day 2025, and CDS-KIAC Weekend Lecture Series: A Gentle Introduction to Large Language Models by Professor Danish Pruthi </li>
+ <li> Apr 2025: Cycled for 46 km ina day. My personal best </li>
  <li> Feb 2025: Attended Pingala Interactions in Computing (PIC-2025) and explored Coimbatore, India </li>
  <li> Feb 2025: Attended ACM Academic Research and Careers for Students (ARCS-2025) and explored Mysuru, India </li>
  <li> Jan 2025: Completed courses on Agentic AI </li>
