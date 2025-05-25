@@ -107,12 +107,18 @@ Helping Indians to manage their wealth
       <img src="../assets/img/ipo-methodology.png" alt="ipo" width="750" height="500">
 -   Predicting Ratings of Indian IPOs from Red Herring Prospectus
     - Skills: Large Language Models, Small Language Models, Retrieval Augmented Generation (RAG)
-    
+- Budget-Assisted Sectoral Impact Ranking
+    - Skills: Stock Market Prediction, Text Ranking
+- Multi-Modal Indian Earnings Calls Dataset to Predict Stock Prices
+    - Skills: Multi-modal Language Models
+      <img src="../assets/img/mimic-methodology.png" alt="mimic" width="750" height="500">
 #### Relevant Publications: 
 - "Financial Argument Analysis in Bengali" in FIRE 2023 <a href="https://easychair.org/publications/preprint/ZZpZ/open" target="_blank">(link)</a>
 - "IndicFinNLP: Financial Natural Language Processing for Indian Languages" in LREC-COLING 2024 <a href="https://aclanthology.org/2024.lrec-main.789/" target="_blank">(link)</a>
 - "Experimenting with Multi-modal Information to Predict Success of Indian IPOs" <a href="https://www.arxiv.org/abs/2412.16174" target="_blank">(link)</a>
 - "Predicting Ratings of Indian IPOs from Red Herring Prospectus" <a href="https://easychair.org/publications/preprint/G1P2/open" target="_blank">(link)</a>
+- "BASIR: Budget-Assisted Sectoral Impact Ranking—A Dataset for Sector Identification and Performance Prediction Using Language Models" <a href="https://arxiv.org/abs/2504.13189/" target="_blank">(link)</a>
+- "MiMIC: Multi-Modal Indian Earnings Calls Dataset to Predict Stock Prices" <a href="https://arxiv.org/abs/2504.09257" target="_blank">(link)</a>
 
 
 ## FinNLP tools
