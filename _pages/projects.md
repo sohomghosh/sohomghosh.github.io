@@ -16,6 +16,14 @@ nav_order: 3
 - **Relevant Coursework:** Technical - Natural Language Processing Specialization (Score >90%), Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Score>90%), Prompt Engineering, Large Language Models, Cloud - AWS, Machine Learning Engineering, etc.; Soft skills - Learnship Business English Level 10, Creating Effective Presentations, Creative Thinking; Research - Introduction to Research, NPTEL, Score: 87%, Rank: Top 1%, Domain - Mutual Funds, Stocks etc.
 - **Areas of Interest:** Applied NLP, GenAI, ML
 - **Soft Skills:** Critical thinking, Communication, Problem Solving, Self-learning, Resilience, Emotional intelligence
+- **Leadership:** Lead a team of 2 data scientists resulting in a publication in IEEE Big Data conference. Lead an annotation project comprising a team of 98 annotators.  Lead multiple groups of 3–4 people resulting in various research paper publications (Venues: LREC-COLING, NTCIR-17, FinNLP@LREC-COLING, FIRE, etc.). Functioned as a primary point of contact for technical paper writing initiatives in Fidelity Investments' Collaboration & Innovation Track.
+
+# Published Industrial Projects
+- Automated analysis of customer interaction text to generate customer intent information and hierarchy of customer issues [US Patent - 2024](https://patents.google.com/patent/US12033162B2/en){:target="_blank"}
+- - The Effect of Tweets on the Traded Volume of Crypto-Coins [IEEE BigData - 2023](https://ieeexplore.ieee.org/abstract/document/10386711){:target="_blank"}
+- Dichotomic Pattern Mining Integrated With Constraint Reasoning for Digital Behavior Analysis [Frontiers in AI Journal 2022](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2022.868085/full){:target="_blank"}
+- Data Driven Content Creation using Statistical and Natural Language Processing Techniques for Financial Domain [Financial Narrative Processing Workshop - 2021](https://aclanthology.org/2021.fnp-1.1.pdf){:target="_blank"}
+- Applying Transfer Learning for Improving Domain-Specific Search Experience Using Query to Question Similarity [ACAI-2020](https://dl.acm.org/doi/abs/10.1145/3446132.3446403){:target="_blank"}
 
 
 # Open Source Academic Research Projects
