@@ -1,4 +1,11 @@
-
+---
+layout: default
+title: experience & education
+permalink: /expedu/
+description: 
+nav: true
+nav_order: 2
+---
 
 ## Work Experience
 
