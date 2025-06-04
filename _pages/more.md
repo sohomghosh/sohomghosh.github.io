@@ -137,8 +137,8 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
   <li> Nov 2023: I got selected to attend the ACM India PhD Clinic (colocated with Cods-Comad 2024) </li>
   <li> Nov 2023: I completed Everest Base Camp with Go-Kyo Trek</li>
   <li> Nov 2023: Our poster, "The Effect of Tweets on the Traded Volume of Crypto-Coins" got accepted for publication in <a href="https://bigdataieee.org/BigData2023/" target="_blank"> 2023 IEEE BigData </a> </li>
-  <li> Nov 2023: Our paper, "The Mask One At a Time Framework for Detecting the Relationship between Financial Entities" got accepted for publication in <a href="http://fire.irsi.res.in/fire/2023/home" target="_blank">FIRE-2023</a> </li>
-  <li> Nov 2023: Our paper, "Financial Argument Analysis in Bengali" got accepted for publication in <a href="http://fire.irsi.res.in/fire/2023/home" target="_blank">FIRE-2023</a> </li>
+  <li> Nov 2023: Our paper, "The Mask One At a Time Framework for Detecting the Relationship between Financial Entities" got accepted for publication in FIRE-2023 </li>
+  <li> Nov 2023: Our paper, "Financial Argument Analysis in Bengali" got accepted for publication in FIRE-2023 </li>
   <li> Oct 2023: Our paper, "A low resource framework for Multi-lingual ESG Impact Type Identification" got accepted for publication in <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp2023/accepted-papers" target="_blank">FinNLP@IJCNLP-AACL 2023</a>. We achieved the 1st rank in Japanese & Chinese sub-tasks  </li>
   <li> Oct 2023: Our paper, "LIPI at the NTCIR-17 FinArg-1 Task: Using Pre-trained Language Models for Comprehending Financial Arguments" got accepted for publication in <a href="https://research.nii.ac.jp/ntcir/ntcir-17/index.html" target="_blank">NTCIR-17</a> </li>
   <li> Sep 2023: Ran 11.09 km in 59.26 minutes </li>
@@ -178,7 +178,7 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
   <li> Nov 2022: Visited Andaman Islands and did <a href="https://www.youtube.com/watch?v=M0TcOC-yqcE&ab_channel=SohomGhosh" target="_blank">scuba diving</a>, <a href="https://www.youtube.com/watch?v=XwBKcoEjKjA&ab_channel=SohomGhosh" target="_blank">snorkeling</a> and kayaking there. </li>
   <li> Nov 2022: Our papers, "FLUEnT: Financial Language Understandability Enhancement Toolkit" and "Using Natural Language Processing to Enhance Understandability of Financial Texts" got accepted at  <a href="https://cods-comad.in/" target="_blank">6<sup>th</sup> Joint International Conference on Data Science & Management of Data (10<sup>th</sup> ACM IKDD CODS and 28<sup>th</sup> COMAD)</a>, Mumbai, India.  <a href="https://easychair.org/publications/preprint/cWW5" target="_blank">(pre-print)</a>  <a href="https://easychair.org/publications/preprint/Ldxz" target="_blank">(pre-print)</a></li>
   <li> Oct 2022: Celebrated Durga Puja, Diwali and Jagadhatri puja. Played harmonica at a cultural programme. </li>
-  <li> Oct 2022: Our paper, "Evaluating Impact of Social Media Posts by Executives on Stock Prices" got accepted at the <a href="http://fire.irsi.res.in/fire/2022/home/" target="_blank">14<sup>th</sup> meeting of Forum for Information Retrieval Evaluation (FIRE-2022)</a>, Kolkata, India.  <a href="https://arxiv.org/abs/2211.01287" target="_blank">(pre-print)</a> </li>
+  <li> Oct 2022: Our paper, "Evaluating Impact of Social Media Posts by Executives on Stock Prices" got accepted at the 14<sup>th</sup> meeting of Forum for Information Retrieval Evaluation (FIRE-2022), Kolkata, India.  <a href="https://arxiv.org/abs/2211.01287" target="_blank">(pre-print)</a> </li>
   <li> Oct 2022: Our paper, "LIPI at the FinNLP-2022 ERAI Task: Ensembling Sentence Transformers for Assessing Maximum Possible Profit and Loss from Online Financial Posts" got accepted at <a href="https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-2022-emnlp/home" target="_blank">Workshop on Financial Technology and Natural Language Processing</a> (collocated with <a href="https://2022.emnlp.org/" target="_blank">EMNLP 2022</a>), Abu Dhabi, UAE.</li>
   <li> Sep 2022: We are hiring. Our <a href="https://www.youtube.com/watch?v=tLSIkB4C8R4&ab_channel=FidelityJobs" target="_blank">culture</a>. Application <a href="https://india.fidelity.com/careers/" target="_blank">link</a>. </li>
   <li> Aug 2022: Received a  "Thank You" note from Fidelity for contributing towards learning & development of the associates.</li>
@@ -206,7 +206,7 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
     <li> Dec 2021: I presented at the <a href="https://scse.xim.edu.in/programs/faculty-development-program-on-application-of-data-science-and-analytics/" target="_blank">Faculty Development Workshop</a> organized by XIM, University, India <a href="https://github.com/sohomghosh/Data_Visualization_FDP" target="_blank">(materials)</a> </li>
     <li> Dec 2021: I am a top 6% Chinese learner on Duolingo for the year 2021 </li>
     <li> Dec 2021: Received "You've Earned It Individual" Award from Fidelity for collaborating with teammates which resulted in 5 research publications in the year 2021 </li>
-    <li> Nov 2021: Our demonstration paper, "FinRead: : A Transfer Learning Based Tool to Assess Readability of Definitions of Financial Terms" got accepted at <a href="http://icon2021.nits.ac.in/coloc_events.html" target="_blank">ICON-2021</a> </li>
+    <li> Nov 2021: Our demonstration paper, "FinRead: : A Transfer Learning Based Tool to Assess Readability of Definitions of Financial Terms" got accepted at ICON-2021 </li>
     <li> Nov 2021: Filed our US patent, "Automated Analysis of Customer Interaction Text to Generate Customer Intent Information and Hierarchy of Customer Issues", Application Number: 17/500614 </li>
     <li> Nov 2021: Presented our paper, "Using Natural Language Processing to Understand Reasons and Motivators Behind Customer Calls in Financial Domain" at ICCMDE <a href="https://arxiv.org/abs/2110.09094" target="_blank">[pre-print]</a> </li>
     <li> Nov 2021: Completed certification on <a href="https://www.coursera.org/account/accomplishments/verify/9366RC8ZNBAP" target="_blank"> Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization</a> (Coursera)</li>
@@ -250,11 +250,11 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
     <li> Sep 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/D5VQ5Q8QH2CS" target="_blank">Natural Language Processing with Probabilistic Models</a> (Coursera) </li>
     <li> Aug 2020: Attended <a href="https://www.kdd.org/kdd2020/" target="_blank">KDD 2020</a> </li>
     <li> Aug 2020: Completed certification on <a href="https://www.coursera.org/account/accomplishments/certificate/MEGC5CUXA5JX" target="_blank"> Natural Language Processing with Classification and Vector Spaces</a> (Coursera) </li>
-    <li> Aug 2020: Book titled, <a href="https://www.packtpub.com/in/data/the-natural-language-processing-workshop-second-edition" target="_blank">The Natural Language Processing Workshop</a> got published by Packt Publishing </li>
+    <li> Aug 2020: Book titled, The Natural Language Processing Workshop got published by Packt Publishing </li>
     <li> Jul 2020: Received "Excellence In Action (Team) Award" from Fidelity Investments </li>
     <li> Jun 2020: Participated in Fidelity HealthifyMe Challenge 2020. Maintained streak for 42 days. Ranked 56 (All India). </li>
     <li> May 2020: Authored and released a set of poems in Bengali on <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj_CVGr_XFmvcX69LzdsxVNe" target="_blank">YouTube</a> </li>
-    <li> May 2020: Played <a href="https://youtu.be/ajFlw7rnfkI"  target="_blank">Harmonica </a> at the launch event of PI Fun Friday (Fidelity Investments) </li>
+    <li> May 2020: Played Harmonica at the launch event of PI Fun Friday (Fidelity Investments) </li>
     <li> May 2020: Received "You've Earned It Team (India) Award" from Fidelity Investments </li>
     <li> May 2020: Paper titled, <a href="https://doi.org/10.1007/s41870-020-00473-1" target="_blank">Identifying click baits using various machine learning and deep learning techniques</a> got published in International Journal of Information Technology, Springer </li>
     <li> Feb 2020: Visited Hampi (UNESCO World Heritage Site) along with my family </li>
