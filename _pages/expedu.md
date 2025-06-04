@@ -7,6 +7,12 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+td {
+    border: solid 2px lightgrey;
+}
+</style>
+
 <h2>Work Experience</h2>
 <div style="height:200px;overflow:auto;">
 <table style="border: 3px solid #990000; border-collapse: collapse">
@@ -27,11 +33,6 @@ nav_order: 2
       <td>Bengaluru, India</td>
       <td>
         - Led Generative AI projects for call and chat transcript analysis (patented, in production).<br>
-        - Managed annotation pipeline (98 annotators), fine-tuned NLP models (Bi-LSTM, T5, BART, LLaMA).<br>
-        - Automated note generation, root cause analysis, and feature engineering for advanced analytics.<br>
-        - Improved customer satisfaction by 10%, NPS by 18 points, and Customer Ease Score by 27%.<br>
-        - Developed predictive customer interaction systems (LLM, Learning-to-Rank, real-time solutions; 32.5% CTR, $300M estimated savings).<br>
-        - Built investor behavior analytics and enterprise search solutions (LightGBM, RAG, RoBERTa).<br>
         - Won 7 awards, deployed 4 ML models, published 3 research papers.
       </td>
     </tr>
