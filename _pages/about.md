@@ -34,7 +34,7 @@ td {
 <table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
-  <tr><td><b>May 2025</b></td><td> Submitted by PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India. </td></tr>
+  <tr><td><b>May 2025</b></td><td> Submitted my PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India. </td></tr>
   <tr><td><b>Feb 2025</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 200 citations. Miles to go! </td></tr>
   <tr><td><b>Feb 2025</b></td> <td> Presented <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">posters</a> & lightning talks at Pingala Interactions in Computing (PIC-2025) and ACM Academic Research and Careers for Students (ARCS-2025)  </td></tr> 
   <tr><td><b>Summary 2024</b></td> <td> Eureka Enablers & Patent Grant Award, 5 year completion @ Fidelity. Publications: <b>LREC-COLING, The Web Conference (WWW), CIKM, FinNLP-KDF-ECONLP</b>. Travel Grants: CODS-COMAD 2024, CIKM 2024, IndoML 2024. </td></tr>
