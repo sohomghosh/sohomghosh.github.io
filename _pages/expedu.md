@@ -18,7 +18,7 @@ td {
 <table style="border: 3px solid #990000; border-collapse: collapse">
   <thead>
     <tr>
-      <th>Company</th>
+      <th>Organization</th>
       <th>Duration</th>
       <th>Role(s)</th>
       <th>Location</th>
