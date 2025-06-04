@@ -32,8 +32,10 @@ td {
       <td>Senior Analyst &rarr; Data Scientist &rarr; Senior Data Scientist</td>
       <td>Bengaluru, India</td>
       <td>
-        - Led Generative AI projects for call and chat transcript analysis (patented, in production).<br>
-        - Won 7 awards, deployed 4 ML models, published 3 research papers.
+        - Led Generative AI projects for call and chat transcript analysis (patented, in production) <br>
+        - Predictive Customer Interaction System (in production) <br>
+        - Investor Behaviour Analytics, Enterprise Search & Knowledge Solutions <br>
+        - Won 7 awards, deployed 4 ML models, published 3 research papers
       </td>
     </tr>
     <tr>
@@ -42,10 +44,10 @@ td {
       <td>Data Scientist</td>
       <td>Noida, India</td>
       <td>
-        - Designed Word2Vec-based skill recommendation system for TimesJobs.<br>
-        - Built XGBoost predictive model with PySpark for email targeting (15% increase in open rates).<br>
-        - Analyzed interest graphs and behavioral patterns for 450M+ monthly visitors across 39+ digital properties.<br>
-        - Led sales analytics, digital product analytics, B2B cross-walk, and fraud analytics (prevented $17,000+ in losses).
+        - Designed Word2Vec-based skill recommendation system for TimesJobs <br>
+        - Built XGBoost predictive model with PySpark for email targeting (15% increase in open rates) <br>
+        - Analyzed interest graphs and behavioral patterns for 450M+ monthly visitors across 39+ digital properties <br>
+        - Led sales analytics, digital product analytics, B2B cross-walk, and fraud analytics (prevented $17,000+ in losses)
       </td>
     </tr>
     <tr>
