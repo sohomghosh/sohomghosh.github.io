@@ -35,7 +35,7 @@ td {
         - Built Generative AI projects for call and chat transcript analysis (patented, in production) <br>
         - Created Predictive Customer Interaction System (in production) <br>
         - Developed Investor Behaviour Analytics, Enterprise Search & Knowledge Solutions <br>
-        - Won 7 awards, deployed 4 ML models, published 3 research papers
+        - Won 7 awards, deployed 4 ML models, published 3 research papers, 1 US Patent
       </td>
     </tr>
     <tr>
