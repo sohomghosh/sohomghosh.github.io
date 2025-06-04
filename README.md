@@ -30,6 +30,10 @@ Contact
 For updating contact information, edit the following page:
 https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/contact.md
 
+Work Experience and Education
+For updating Work Experience and Education, update the following file:
+https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/expedu.md
+
 To add a newpage:
 Create the page as markdown. Modify & add the following at the top of the page.
 
