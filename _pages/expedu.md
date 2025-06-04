@@ -32,9 +32,9 @@ td {
       <td>Senior Analyst &rarr; Data Scientist &rarr; Senior Data Scientist</td>
       <td>Bengaluru, India</td>
       <td>
-        - Led Generative AI projects for call and chat transcript analysis (patented, in production) <br>
-        - Predictive Customer Interaction System (in production) <br>
-        - Investor Behaviour Analytics, Enterprise Search & Knowledge Solutions <br>
+        - Built Generative AI projects for call and chat transcript analysis (patented, in production) <br>
+        - Created Predictive Customer Interaction System (in production) <br>
+        - Developed Investor Behaviour Analytics, Enterprise Search & Knowledge Solutions <br>
         - Won 7 awards, deployed 4 ML models, published 3 research papers
       </td>
     </tr>
