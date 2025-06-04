@@ -83,7 +83,7 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
 <ul>
  
  <li> Jun 2025: Earned my yellow belt in martial arts from The School of Martial Arts, Bengaluru </li>
- <li> May 2025: Submitted by PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India </li>
+ <li> May 2025: Submitted my PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India </li>
  <li> May 2025: Celebrated Rabindra Jayanti - 2025 </li>
  <li> Mar 2025: Played Holi </li>
  <li> Mar 2025: Performed at EGL Got Talent ENERGIZE-2025 finals</li>
