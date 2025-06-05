@@ -14,7 +14,7 @@ td {
 </style>
 
 <h2>Work Experience</h2>
-<div style="height:600px;">
+<div style="height:600px;overflow:auto;">
 <table style="border: 3px solid #990000; border-collapse: collapse">
   <thead>
     <tr>
