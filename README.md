@@ -5,6 +5,7 @@ Config file https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_conf
 Home page about.md
 https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_pages/about.md
 
+Publication page: https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/publications.md
 Publications to update in
 https://github.com/sohomghosh/sohom1ghosh.github.io/blob/master/_bibliography/papers.bib
 Add image of the publication venue in https://github.com/sohomghosh/sohomghosh.github.io/tree/master/assets/img/publication_preview
@@ -12,7 +13,7 @@ In each bib add the folowing,<br>
 preview={<name of image added with extension>},
 selected={true}
 
-Create bib from https://scholar.googleusercontent.com/citations?view_op=export_citations&user=7Jm4_McAAAAJ&citsig=AA45KRsAAAAAZczxf5gEP971VeXF0jbLJ0Xmayc&hl=en
+Directly create bib from https://scholar.googleusercontent.com/citations?view_op=export_citations&user=7Jm4_McAAAAJ&citsig=AA45KRsAAAAAZczxf5gEP971VeXF0jbLJ0Xmayc&hl=en
 Or, vsit Google Scholar https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ&view_op=list_works&sortby=pubdate ->  select all articles -> Export -> BibTeX -> Export all my articles -> Export -> Save all the contents in a bib file
 
 Resume to place in
