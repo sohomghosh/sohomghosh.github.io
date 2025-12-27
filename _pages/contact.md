@@ -13,13 +13,13 @@ Let’s Build AI Solutions Together →
 
 ### Email
 You can reach me directly via email at:
-[Email Me](mailto:sohom1ghosh@gmail.com)
+[sohom1ghosh@gmail.com](mailto:sohom1ghosh@gmail.com)
 
 ### Social Media
 
 #### Twitter
-Follow me on Twitter (X) for the latest updates:
-[Follow me on Twitter (X)](https://twitter.com/sohom1ghosh)
+Follow me on
+[Twitter (X)](https://twitter.com/sohom1ghosh)
 
 #### LinkedIn
 Connect with me on 
