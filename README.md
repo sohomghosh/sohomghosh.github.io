@@ -13,6 +13,9 @@ In each bib add the folowing,<br>
 preview={<name of image added with extension>},
 selected={true}
 
+After making changes in .bib, follow the steps mentioned below so that the changes reflect on the main website
+Actions -> Deploy site -> Run Workflow -> Run Workflow (green)
+
 Directly create bib from https://scholar.googleusercontent.com/citations?view_op=export_citations&user=7Jm4_McAAAAJ&citsig=AA45KRsAAAAAZczxf5gEP971VeXF0jbLJ0Xmayc&hl=en
 Or, vsit Google Scholar https://scholar.google.com/citations?hl=en&user=7Jm4_McAAAAJ&view_op=list_works&sortby=pubdate ->  select all articles -> Export -> BibTeX -> Export all my articles -> Export -> Save all the contents in a bib file
 
