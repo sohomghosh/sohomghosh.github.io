@@ -38,7 +38,7 @@ td {
 <table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
-    <tr><td><b>Summary 2025</b></td> <td> Moved to Apple, Inc. Received PhD (Engineering) degree from Jadavpur University. Attended PIC-2025, ARCS-2025. </td></tr>
+    <tr><td><b>Summary 2025</b></td> <td> Moved to Apple. Received PhD (Engineering) degree from Jadavpur University. Attended PIC-2025, ARCS-2025. </td></tr>
   <tr><td><b>Dec 2025</b></td><td> Received PhD (Engineering) degree from Jadavpur University, India <a href="https://shodhganga.inflibnet.ac.in/handle/10603/683647" target="_blank">(thesis)</a>, <a href="https://github.com/sohomghosh/sohomghosh.github.io/blob/master/assets/pdf/Presentation_Sohom_PhD_Thesis_Defence.pdf" target="_blank">(slides)</a> </td></tr>
   <tr><td><b>Dec 2025</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 300 citations. Miles to go! </td></tr>
   <tr><td><b>Sep 2025</b></td><td> After 6+ amazing years at Fidelity Investments, I joined Apple as a Machine Learning Engineer. </td></tr>
