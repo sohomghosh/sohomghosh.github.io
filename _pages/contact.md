@@ -22,9 +22,9 @@ Follow me on Twitter (X) for the latest updates:
 [Follow me on Twitter (X)](https://twitter.com/sohom1ghosh)
 
 #### LinkedIn
-Connect with me on LinkedIn:
-[Connect on LinkedIn](https://www.linkedin.com/in/sohomghosh/)
+Connect with me on 
+[LinkedIn](https://www.linkedin.com/in/sohomghosh/)
 
 #### GitHub
-Check out my projects on GitHub:
-[Visit my GitHub](https://github.com/sohomghosh/)
+Check out my projects on
+[GitHub](https://github.com/sohomghosh/)
