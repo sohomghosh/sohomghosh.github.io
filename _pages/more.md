@@ -81,7 +81,18 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
 <details>
   <summary>2025</summary>
 <ul>
-
+ <li> Dec 2025: Received PhD (Engineering) degree from Department of Computer Science & Engineering of Jadavpur University, Kolkata, India </li>
+ <li> Dec 2025: Visited various places in West Bengal (Bishnupur, Sunderban) </li>
+ <li> Dec 2025: Received 300+ citations on Google Scholar with h-index of 10 </li>
+ <li> Nov 2025: Visited various places in Odisha (Udaygiri, Khandagiri) </li>
+ <li> Nov 2025: Participated in HCL Cyclothon, Hyderabad </li>
+ <li> Nov 2025: Completed basic rock climbing lessons </li>
+ <li> Oct 2025: Visited coastal Karnataka (Vibhuti Waterfalls, Honnavar Backwaters, Murudeshwar Temple, Gokarna, Dandeli) </li>
+ <li> Sep 2025: Moved to Hyderabad, joined Apple as a Machine Learning Engineer </li>
+ <li> Aug 2025: Wrote articles on <a href="https://www.linkedin.com/in/sohomghosh" target="_blank">LinkedIn</a> </li>
+ <li> Aug 2025: Left Fidelity Investments after spending amazing 6+ years </li>
+ <li> Aug 2025: Completed 37 km Kanwar Yatra on foot from Seuraphuli to Tarakeshwar, West Bengal, India </li>
+ <li> Jul 2025: Completed Pin Bhaba Pass Trek, Visited Spiti, Manali, Manikaran, Kullu, Mathura, & Vrindavan </li>
  <li> Jun 2025: Ran 8 km in 40 minutes and secured the 1st position in The School of Martial Arts Run Day Challenge - 2025. </li>
  <li> Jun 2025: Earned my yellow belt in martial arts from The School of Martial Arts, Bengaluru </li>
  <li> May 2025: Submitted my PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India </li>
