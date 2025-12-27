@@ -138,9 +138,14 @@ Open sourcing tools for analysing financial texts
 ### Title
 #### Using Computational Linguistics to Demystify Financial Texts 
 <img src="../assets/img/phd_work_summary.gif" alt="phd_work_summary" width="750" height="500">
+### Thesis
+<a href="https://shodhganga.inflibnet.ac.in/handle/10603/683647" target="_blank">(link)</a>
+### Slides
+<a href="https://github.com/sohomghosh/sohomghosh.github.io/blob/master/assets/pdf/Presentation_Sohom_PhD_Thesis_Defence.pdf" target="_blank">(link)</a>
 ### Summary
 <a href="https://easychair.org/publications/preprint/GqWf/open/" target="_blank">(link)</a>
 ### Poster
 <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">(link)</a>
 ### Video
 <a href="https://www.youtube.com/watch?v=L7bd1lgvQKY" target="_blank">(link)</a>
+
