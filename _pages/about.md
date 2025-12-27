@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <h2>Sohom Ghosh </h2> <a href='#'>Machine Learning Engineer | Building GenAI for Real Impact</a>
+subtitle: <h2>Sohom Ghosh </h2> <a href='#'>Machine Learning Engineer 🍎 | Building GenAI Solutions for Real Impact</a>
 
 profile:
   align: right
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 *Namaste (নমস্কার) 🙏*, I am **Sohom Ghosh**. I like developing innovative solutions for solving real life challenges. For nearly a decade, I've had the privilege of **revolutionizing digital experiences** and **enhancing financial well-being** for millions of users. From innovative internet startups to established financial institution, I've consistently delivered solutions that bridge the gap between complex technology and real human needs. Presently, I am working as a **Machine Learning Engineer** at [Apple Inc](https://www.apple.com/){:target="_blank"}. Before this, I worked as a **Senior Data Scientist** for the **Artificial Intelligence, Centre of Excellence of** [Fidelity Investments](https://www.fidelity.com/){:target="_blank"}, and  for [Times Internet](https://timesinternet.in){:target="_blank"} (digital wing of The Times Group). My research interests include **Industrial Applications of Natural Language Processing, Large Language Models, and GenAI**. Here is my [CV](../assets/pdf/Sohom_Resume.pdf){:target="_blank"}. <br> 
 
-In addition to being a US patent holder, co-author of the books [Natural Language Processing Fundamentals](https://books.google.co.in/books?id=i8-PDwAAQBAJ&newbks=0){:target="_blank"} and [The Natural Language Processing Workshop](https://www.google.co.in/books/edition/The_Natural_Language_Processing_Workshop/Gif4DwAAQBAJ){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in international venues of repute, such as **ACM TheWebConf (WWW), ACM CIKM, COLING, LREC, IEEE BigData** and so on. I earned a **PhD Degree** in **Engineering (Computer Science)** from Jadavpur University, Kolkata, India. I also hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"}.
+In addition to being a US patent holder, co-author of the books [Natural Language Processing Fundamentals](https://books.google.co.in/books?id=i8-PDwAAQBAJ&newbks=0){:target="_blank"} and [The Natural Language Processing Workshop](https://www.google.co.in/books/edition/The_Natural_Language_Processing_Workshop/Gif4DwAAQBAJ){:target="_blank"}, I have several [publications](https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en){:target="_blank"} in international venues of repute, such as **ACM TheWebConf (WWW), ACM CIKM, COLING, LREC, IEEE BigData**, and so on. I earned a **PhD Degree** in **Engineering (Computer Science)** from Jadavpur University, Kolkata, India. I also hold a **Master's Degree** in **Software Systems (with specialization in Data Analytics)** from [BITS Pilani, India](http://www.bits-pilani.ac.in/){:target="_blank"}.
 <details>
 
 <summary> Beyond Work 🧗 𝄞 📏 ♫ 🥋 <i>(click here to expand)</i> </summary>
@@ -38,7 +38,8 @@ td {
 <table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
-  <tr><td><b>Dec 2025</b></td><td> Received PhD (Engineering - Computer Science) degree from Jadavpur University, India <a href="https://shodhganga.inflibnet.ac.in/handle/10603/683647" target="_blank">(thesis)</a>, <a href="https://github.com/sohomghosh/sohomghosh.github.io/blob/master/assets/pdf/Presentation_Sohom_PhD_Thesis_Defence.pdf" target="_blank">(slides)</a> </td></tr>
+    <tr><td><b>Summary 2025</b></td> <td> Moved to Apple, Inc. Received PhD (Engineering) degree from Jadavpur University. Attended PIC-2025, ARCS-2025. </td></tr>
+  <tr><td><b>Dec 2025</b></td><td> Received PhD (Engineering) degree from Jadavpur University, India <a href="https://shodhganga.inflibnet.ac.in/handle/10603/683647" target="_blank">(thesis)</a>, <a href="https://github.com/sohomghosh/sohomghosh.github.io/blob/master/assets/pdf/Presentation_Sohom_PhD_Thesis_Defence.pdf" target="_blank">(slides)</a> </td></tr>
   <tr><td><b>Dec 2025</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 300 citations. Miles to go! </td></tr>
   <tr><td><b>Sep 2025</b></td><td> After 6+ amazing years at Fidelity Investments, I joined Apple as a Machine Learning Engineer. </td></tr>
   <tr><td><b>May 2025</b></td><td> Submitted my PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India. </td></tr>
