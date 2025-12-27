@@ -26,9 +26,19 @@ td {
     </tr>
   </thead>
   <tbody>
+      <tr>
+      <td>Apple Inc</td>
+      <td>Sep 2025 - Present</td>
+      <td>Machine Learning Engineer</td>
+      <td>Hyderabad, India</td>
+      <td>
+        -  Building intelligent systems to democratize AI across a wide range of solutions within Apple <br>
+        -  Driving development & deployment of innovative AI models & systems that impact Apple’s products & services <br>
+      </td>
+    </tr>
     <tr>
       <td>Fidelity Investments</td>
-      <td>Jun 2019 - Present</td>
+      <td>Jun 2019 - Aug 2025</td>
       <td>Senior Analyst &rarr; Data Scientist &rarr; Senior Data Scientist</td>
       <td>Bengaluru, India</td>
       <td>
@@ -50,13 +60,6 @@ td {
         - Led sales analytics, digital product analytics, B2B cross-walk, and fraud analytics (prevented $17,000+ in losses)
       </td>
     </tr>
-    <tr>
-      <td>Fn MathLogic</td>
-      <td>Jul 2016 - Jan 2017</td>
-      <td>Analyst</td>
-      <td>Gurugram, India</td>
-      <td>- Technical Consulting.</td>
-    </tr>
   </tbody>
 </table>
 </div> 
@@ -76,9 +79,9 @@ td {
   </thead>
   <tbody>
     <tr>
-      <td>PhD (Thesis Submitted: May 2025)</td>
-      <td>Engineering (Financial NLP)</td>
-      <td>2022-2025 (tentative)</td>
+      <td>PhD (Engineering)</td>
+      <td> Computer Science & Engineering (Financial NLP)</td>
+      <td>2022-2025</td>
       <td>Jadavpur University</td>
       <td>Kolkata, India</td>
     </tr>
@@ -93,7 +96,7 @@ td {
       <td>Bachelor of Technology (B.Tech)</td>
       <td>Computer Science &amp; Engineering</td>
       <td>2012-2016</td>
-      <td>Heritage Institute of Technology (MAKAUT)</td>
+      <td>Heritage Institute of Technology (MAKAUT-WB)</td>
       <td>Kolkata, India</td>
     </tr>
   </tbody>
