@@ -77,7 +77,29 @@ Beyond our research collaboration, his expertise in Natural Language Processing 
 Finally, Sohom is a fantastic team player, yet, he is not afraid to take the initiative when needed, especially under tight deadlines. Overall, Sohom has demonstrated great competence and enthusiasm in all my interactions with him."
 ```
 
+Dr. Sudip Kumar Naskar (Associate Professor, Jadavpur University, Kolkata, India) says:
+```
+"Welcome to the doctors’ club. Thoroughly deserved!"
+
+"As his Ph.D. advisor, I have had the pleasure of guiding and mentoring him throughout his research journey so far, and I can confidently attest to his achievements and potential in research.
+
+Sohom has been working on Financial Natural Language Processing, a highly interdisciplinary and relatively new area of research. His research focuses on developing NLP techniques to analyze and understand financial texts.
+Sohom's research achievements to date have been impressive. He has published numerous papers in top-tier conferences and journals, including TheWebConf (WWW-2024), LREC-COLING 2024, FIRE-2023, Software Impacts (Elsevier), and SN Computer Science (Springer), among others.
+
+In addition to his research achievements, Sohom has also contributed to the academic and research community by mentoring student projects, delivering invited talks, and reviewing conference and journal papers.
+
+Sohom’s research has also been recognized through several awards and honors, including Honorable Mention in CODS-COMAD 2023 YRS Track, 2nd Rank in FinArg-1@NTCIR-17 Task-1 Sub-Task-2, and 1st Rank in Japanese and Chinese tasks in FinNLP@AACL-IJCNLP 2023 ESG ML-2. He also received a Student Travel Grant to attend the PhD Clinic Session at CODS-COMAD 2024, IIIT Bangalore.
+
+His research has the potential to make a significant impact in the field of Financial NLP."
+```
+
 # Yearwise Updates
+<details>
+  <summary>2026</summary>
+ <ul>
+  <li> Jan 2026: Visited Qutb Shahi Tombs, Hyderabad </li>
+ </ul>
+</details>
 <details>
   <summary>2025</summary>
 <ul>
@@ -100,7 +122,7 @@ Finally, Sohom is a fantastic team player, yet, he is not afraid to take the ini
  <li> Mar 2025: Played Holi </li>
  <li> Mar 2025: Performed at EGL Got Talent ENERGIZE-2025 finals</li>
  <li> Mar 2025: Attended IISc Open Day 2025, and CDS-KIAC Weekend Lecture Series: A Gentle Introduction to Large Language Models by Professor Danish Pruthi </li>
- <li> Apr 2025: Cycled for 46 km ina day. My personal best </li>
+ <li> Apr 2025: Cycled for 46 km in a day. My personal best </li>
  <li> Feb 2025: Attended Pingala Interactions in Computing (PIC-2025) and explored Coimbatore, India </li>
  <li> Feb 2025: Attended ACM Academic Research and Careers for Students (ARCS-2025) and explored Mysuru, India </li>
  <li> Jan 2025: Completed courses on Agentic AI </li>
