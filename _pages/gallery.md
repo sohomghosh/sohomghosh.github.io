@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Photo Gallery
+title: gallery
 permalink: /gallery/
 description: A visual journey through my life. Explore photo highlights spanning academic and corporate milestones, adventure sports, running, and musical pursuits.
 nav: true
