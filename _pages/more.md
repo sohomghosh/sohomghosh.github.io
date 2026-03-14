@@ -4,7 +4,7 @@ permalink: /more/
 title: more
 description: Academic Service, Testimonials, Awards, Certifications, Invited Talks on NLP / GenAI / ML / Data Science
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 # Service
