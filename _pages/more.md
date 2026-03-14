@@ -97,6 +97,12 @@ His research has the potential to make a significant impact in the field of Fina
 <details>
   <summary>2026</summary>
  <ul>
+  <li> Mar 2026: Auditioned for WaveFest 2026 </li>
+  <li> Mar 2026: Watched T20 world cup final with friends </li>
+  <li> Feb 2026: Completed Half Marathon (21.1 km) organized by Hyderabad Runners Club in 1 hr 47 min 31 sec. Overall rank: 70 out of 989. </li>
+  <li> Feb 2026: Completed Apple Eat Well Challenge </li>
+  <li> Jan 2026: Crossed 6000 followers on LinkedIn </li>
+  <li> Jan 2026: Attended Saraswati Puja </li>
   <li> Jan 2026: Visited Qutb Shahi Tombs, Hyderabad </li>
  </ul>
 </details>
@@ -109,6 +115,7 @@ His research has the potential to make a significant impact in the field of Fina
  <li> Nov 2025: Visited various places in Odisha (Udaygiri, Khandagiri) </li>
  <li> Nov 2025: Participated in HCL Cyclothon, Hyderabad </li>
  <li> Nov 2025: Completed basic rock climbing lessons </li>
+ <li> Oct 2025: Completed Apple Mindfulness Minute Challenge 2025 </li>
  <li> Oct 2025: Visited coastal Karnataka (Vibhuti Waterfalls, Honnavar Backwaters, Murudeshwar Temple, Gokarna, Dandeli) </li>
  <li> Sep 2025: Moved to Hyderabad, joined Apple as a Machine Learning Engineer </li>
  <li> Aug 2025: Wrote articles on <a href="https://www.linkedin.com/in/sohomghosh" target="_blank">LinkedIn</a> </li>
