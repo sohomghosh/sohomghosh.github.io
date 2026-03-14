@@ -4,7 +4,7 @@ permalink: /more/
 title: more
 description: Academic Service, Testimonials, Awards, Certifications, Invited Talks on NLP / GenAI / ML / Data Science
 nav: true
-nav_order: 8
+nav_order: 7
 ---
 
 # Service
@@ -92,6 +92,9 @@ Sohom’s research has also been recognized through several awards and honors, i
 
 His research has the potential to make a significant impact in the field of Financial NLP."
 ```
+
+# Photo Gallery
+Here's a [visual journey](https://sohomghosh.github.io/gallery/){:target="_blank"} through my life.
 
 # Yearwise Updates
 <details>
