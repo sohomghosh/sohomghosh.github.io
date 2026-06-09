@@ -36,6 +36,7 @@ nav_order: 7
 * Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: **Best Presentation Award** (22nd West Bengal State Science and Technology Congress, Mar 2015)
 
 # Certifications
+* [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/QZV53XIM52B4){:target="_blank"}
 * [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/707a7c8e-0ae5-4e57-88c1-ae32bf0aeb78){:target="_blank"}
 * [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/accomplishments/50eccf0b-d34b-4d54-bc6e-da83a1956ca2){:target="_blank"}
 * [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/accomplishments/dcf1af96-6205-4c6e-af52-3df5ea369cd1?usp=sharing){:target="_blank"}
