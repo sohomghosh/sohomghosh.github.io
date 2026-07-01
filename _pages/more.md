@@ -101,6 +101,11 @@ Here's a [visual journey](https://sohomghosh.github.io/gallery/){:target="_blank
 <details>
   <summary>2026</summary>
  <ul>
+  <li> Jul 2026: Completed 10 years of corporate life! </li>
+  <li> Jun 2026:  Participated in Run for Rocks, 16 km running event organised by Hyderabad Runner's Club and Society to Save Rocks along Narsingi -TSPA Service road, Forestrek Park </li>
+  <li> Jun 2026: Volunteered by creating handmade journals at an event organized by Apple  </li>
+  <li> May 2026: Visited Mayapur, West Bengal </li>
+  <li> May 2026: Visited Odisha State Tribal Museum, Bhubaneswar, Odisha </li>
   <li> Mar 2026: Auditioned for WaveFest 2026 </li>
   <li> Mar 2026: Watched T20 world cup final with friends </li>
   <li> Feb 2026: Completed Half Marathon (21.1 km) organized by Hyderabad Runners Club in 1 hr 47 min 31 sec. Overall rank: 70 out of 989. </li>
