@@ -122,7 +122,7 @@ Here's a [visual journey](https://sohomghosh.github.io/gallery/){:target="_blank
  <li> Dec 2025: Visited various places in West Bengal (Bishnupur, Sunderban) </li>
  <li> Dec 2025: Received 300+ citations on Google Scholar with h-index of 10 </li>
  <li> Nov 2025: Visited various places in Odisha (Udaygiri, Khandagiri) </li>
- <li> Nov 2025: Participated in HCL Cyclothon, Hyderabad </li>
+ <li> Nov 2025: Participated in HCL Cyclothon Amateur MTB Race 2026 held in Hyderabad. Ranked 9th out of 44 participants in male category of age group 30+ to 40 years. </li>
  <li> Nov 2025: Completed basic rock climbing lessons </li>
  <li> Oct 2025: Completed Apple Mindfulness Minute Challenge 2025 </li>
  <li> Oct 2025: Visited coastal Karnataka (Vibhuti Waterfalls, Honnavar Backwaters, Murudeshwar Temple, Gokarna, Dandeli) </li>
