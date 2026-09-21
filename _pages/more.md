@@ -20,7 +20,7 @@ nav_order: 7
   * *Feb 2014 - Aug 2014:* Secretary at the ACM student chapter of Heritage Institute of Technology, Kolkata (HIT-K)
   *  *Aug 2014:* Delivered a talk on **R programming** at a workshop organised by HIT-K ACM student chapter [(materials)](https://www.slideshare.net/sohomg/r-programming-basic-advanced){:target="_blank"}
   * Mentored: Several undergraduate and postgraduate students
-  * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications)
+  * Reviewed: Research Papers (FinNLP@LREC-COLING-2024, FinNLP@IJCNLP-AACL 2023, FinArg@NTCIR-17 2023, ICON-2023, EMNLP-2023, FinNLP@EMNLP-2022, Social Network Analysis and Mining - Springer Nature, Discover Computing (Information Retrieval Journal) Springer Nature, etc.), Book Proposals (Manning Publications), Apple Data Science Summit (2026), Apple Machine Learning Summit (2026)
 
 # Awards
 * [Pingala Interactions in Computing (PIC-2025)](https://event.india.acm.org/pic/){:target="_blank"}: Received **Travel Grant** (Feb 2025)
@@ -36,6 +36,7 @@ nav_order: 7
 * Department of Science and Technology Govt. of West Bengal, West Bengal State Council of Science and Technology: **Best Presentation Award** (22nd West Bengal State Science and Technology Congress, Mar 2015)
 
 # Certifications
+* [ChatGPT API for Developers: Integrate AI Effortlessly](https://www.coursera.org/account/accomplishments/verify/KP46FSVZ7AKO){:target="_blank"}
 * [Google AI Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/QZV53XIM52B4){:target="_blank"}
 * [AI Agents in LangGraph](https://learn.deeplearning.ai/accomplishments/707a7c8e-0ae5-4e57-88c1-ae32bf0aeb78){:target="_blank"}
 * [Practical Multi AI Agents and Advanced Use Cases with crewAI](https://learn.deeplearning.ai/accomplishments/50eccf0b-d34b-4d54-bc6e-da83a1956ca2){:target="_blank"}
@@ -101,12 +102,15 @@ Here's a [visual journey](https://sohomghosh.github.io/gallery/){:target="_blank
 <details>
   <summary>2026</summary>
  <ul>
-  <li> Jul 2026: Completed 10 years of corporate life! </li>
+  <li> Sep 2026: Completed my 1st year with Apple - a year of horizontal expansion for vertical integration! </li>
+  <li> Aug 2026: Extracurricular Achievements: Summited Dzo Jongo East Peak (6,000m+); completed Full Marathon (42.2 km) in 4 hrs 35 sec; Cycled 200+ km in Ladakh, including the Leh to Khardung La uphill climb. </li>
+  <li> Jul 2026: Completed a full decade of corporate adventures — building across agile startups, established financial institution, and FAANG! </li>
   <li> Jun 2026:  Participated in Run for Rocks, 16 km running event organised by Hyderabad Runner's Club and Society to Save Rocks along Narsingi -TSPA Service road, Forestrek Park </li>
   <li> Jun 2026: Volunteered by creating handmade journals at an event organized by Apple  </li>
   <li> May 2026: Visited Mayapur, West Bengal </li>
   <li> May 2026: Visited Odisha State Tribal Museum, Bhubaneswar, Odisha </li>
   <li> Mar 2026: Auditioned for WaveFest 2026 </li>
+  <li> Mar 2025: Received 300+ citations on Google Scholar with h-index of 10 </li>
   <li> Mar 2026: Watched T20 world cup final with friends </li>
   <li> Feb 2026: Completed Half Marathon (21.1 km) organized by Hyderabad Runners Club in 1 hr 47 min 31 sec. Overall rank: 70 out of 989. </li>
   <li> Feb 2026: Completed Apple Eat Well Challenge </li>
@@ -120,7 +124,6 @@ Here's a [visual journey](https://sohomghosh.github.io/gallery/){:target="_blank
 <ul>
  <li> Dec 2025: Received PhD (Engineering) degree from Department of Computer Science & Engineering of Jadavpur University, Kolkata, India </li>
  <li> Dec 2025: Visited various places in West Bengal (Bishnupur, Sunderban) </li>
- <li> Dec 2025: Received 300+ citations on Google Scholar with h-index of 10 </li>
  <li> Nov 2025: Visited various places in Odisha (Udaygiri, Khandagiri) </li>
  <li> Nov 2025: Participated in HCL Cyclothon Amateur MTB Race 2026 held in Hyderabad. Ranked 9th out of 44 participants in male category of age group 30+ to 40 years. </li>
  <li> Nov 2025: Completed basic rock climbing lessons </li>
