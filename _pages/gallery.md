@@ -32,7 +32,7 @@ description: A visual journey through my life. Explore photo highlights spanning
   <img src="{{ '/assets/img/3.png' | relative_url }}" alt="Running">
   <img src="{{ '/assets/img/4.png' | relative_url }}" alt="Harmonica and Cajon">
   <img src="{{ '/assets/img/5.png' | relative_url }}" alt="Trekking">
-  <img src="{{ '/assets/img/7.png' | relative_url }}" alt="PhD Life">
-  <img src="{{ '/assets/img/8.png' | relative_url }}" alt="Corporate Life">
-  <img src="{{ '/assets/img/9.png' | relative_url }}" alt="Adventure Sports">
+  <img src="{{ '/assets/img/6.png' | relative_url }}" alt="PhD Life">
+  <img src="{{ '/assets/img/7.png' | relative_url }}" alt="Corporate Life">
+  <img src="{{ '/assets/img/8.png' | relative_url }}" alt="Adventure Sports">
 </div>
