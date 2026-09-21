@@ -25,7 +25,7 @@ In addition to being a US patent holder, co-author of the books [Natural Languag
 
 <details>
 
-<summary> Beyond Work 🧗 𝄞 📏 ♫ 🥋 <i>(click here to expand)</i> </summary>
+<summary> Beyond Work 🏃 𝄞 📏 ♫  <i>(click here to expand)</i> </summary>
 Outside work, I like <a href="https://youtube.com/playlist?list=PLWVXvBh2xmj8BHN7jBCsaKpd5JP4xOT7T" target="_blank">travelling</a>, and playing <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj_yWcdldvo6w1LD1C-d4xSw" target="_blank">harmonica</a>. As an avid <a href="https://www.youtube.com/playlist?list=PLWVXvBh2xmj-XlHYzumNLZazfpmim4klq" target="_blank">adventure sports enthusiast</a>, I have experienced the thrill of diverse activities across spectacular destinations. From the adrenaline rush of <strong>river rafting and bungee jumping</strong> in Rishikesh to the underwater wonders discovered while <strong>scuba diving</strong> in the Andaman Islands, and from soaring through the skies while <strong>paragliding</strong> in Kalimpong to the exhilarating experience of <strong>flyboarding</strong> in Goa - each adventure has fueled my passion for pushing boundaries, self-discovery, and exploring new horizons. I have earned a <strong>yellow belt in Martial Arts </strong>, and have successfully completed some of the <strong>world's most thrilling treks</strong>, from <a href="https://youtu.be/w82B-c4-mzk?si=Jr3t_xnrVpYtbNHB" target="_blank">Everest Base Camp with Gokyo</a> to <a href="https://youtu.be/EpNa9uxCqFA?si=q_DoYzY8dwUK1nDl" target="_blank">Goechala</a>, <a href="https://youtu.be/03pkec3Wk0w?si=fBzns1BL-tH1WPxu" target = "_blank">Pin Bhaba</a> and <a href="https://youtu.be/d3BLY5b4-P8?si=hhdI33vLNKE3C2gU" target="_blank">Bali Pass</a>, just to name a few. I received the <strong>Green Getter</strong>, and <strong>Trekker for Life</strong> awards from Indiahikes in recognition of my contributions to Green Trails - an Indiahikes initiative dedicated to leaving the mountains better than we find them. I captivated audiences & judges with my <a href="https://youtu.be/FBsPGEmfPSw?si=Og3278Ffmfy6V9FE" target="_blank">harmonica performance</a>, securing the <strong>runner-up</strong> position at EGL Got Talent (Energize-2024). I have visited 22 of India’s 27 states and 3 of its 7 union territories.
 
 </details>
@@ -41,10 +41,12 @@ td {
 <table  style="border: 3px solid #990000; border-collapse: collapse">
 <col width="60px">
 <col width="650px">
-  <tr><td><b>Jul 2026</b></td> <td> Completed a full decade of corporate adventures! 🚀 </td></tr>  
+  <tr><td><b>Sep 2026</b></td> <td> Completed my 1st year with Apple - a year of horizontal expansion for vertical integration!  </td></tr> 
+  <tr><td><b>Aug 2026</b></td> <td> Extracurricular Achievements: Summited Dzo Jongo East Peak (6,000m+); completed Full Marathon (42.2 km) in 4 hrs 35 sec; Cycled 200+ km in Ladakh, including the Leh to Khardung La uphill climb.  </td></tr> 
+  <tr><td><b>Jul 2026</b></td> <td> Completed a full decade of corporate adventures — building across agile startups, established financial institution, and FAANG. </td></tr>  
+  <tr><td><b>Mar 2026</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 300 citations with a h-index of 11. Miles to go! </td></tr>
   <tr><td><b>Summary 2025</b></td> <td> Moved to Apple. Received PhD (Engineering) degree from Jadavpur University. Attended PIC-2025, ARCS-2025. </td></tr>
   <tr><td><b>Dec 2025</b></td><td> Received PhD (Engineering) degree from Jadavpur University, India <a href="https://shodhganga.inflibnet.ac.in/handle/10603/683647" target="_blank">(thesis)</a>, <a href="https://github.com/sohomghosh/sohomghosh.github.io/blob/master/assets/pdf/Presentation_Sohom_PhD_Thesis_Defence.pdf" target="_blank">(slides)</a> </td></tr>
-  <tr><td><b>Dec 2025</b></td><td> My <a href="https://scholar.google.com/citations?user=7Jm4_McAAAAJ&hl=en" target="_blank"> Google Scholar </a> profile reached 300 citations. Miles to go! </td></tr>
   <tr><td><b>Sep 2025</b></td><td> After 6+ amazing years at Fidelity Investments, I joined Apple as a Machine Learning Engineer. </td></tr>
   <tr><td><b>May 2025</b></td><td> Submitted my PhD Thesis on Financial Natural Language Processing at Jadavpur University, Kolkata, India. </td></tr>
   <tr><td><b>Feb 2025</b></td> <td> Presented <a href="https://sohomghosh.github.io/assets/pdf/Sohom_PhD_1page_poster.pdf" target="_blank">posters</a> & lightning talks at Pingala Interactions in Computing (PIC-2025) and ACM Academic Research and Careers for Students (ARCS-2025)  </td></tr> 
