@@ -13,6 +13,9 @@ In each bib add the folowing,<br>
 preview={<name of image added with extension>},
 selected={true}
 
+Gallery page: https://github.com/sohomghosh/sohomghosh.github.io/blob/master/_pages/gallery.md
+Images/Collages place in: https://github.com/sohomghosh/sohomghosh.github.io/tree/master/assets/img
+
 After making changes in .bib, follow the steps mentioned below so that the changes reflect on the main website
 Actions -> Deploy site -> Run Workflow -> Run Workflow (green)
 
