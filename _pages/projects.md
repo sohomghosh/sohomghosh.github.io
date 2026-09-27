@@ -65,7 +65,7 @@ Improving the journey of investments
 Considering environmental aspects while investing
 
 #### Topics:
-- Classifying a financail text as Sustainable or Unsustainable
+- Classifying a financial text as Sustainable or Unsustainable
 - Detecting Environmental, Social and Governance (ESG) Issues from financial texts
 - Identifying ESG impact type
 - Identifying ESG impact duration
