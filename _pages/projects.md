@@ -101,7 +101,7 @@ Helping Indians to manage their wealth
 - Financial Argument Analysis in Bengali
     - Skills: Machine Translation, Multi-lingual NLP, Cross Encoders
 - Financial Natural Language Processing for Indian Languages
-    - Skills: Multi-lingual Natural Language Processing, Transfromers
+    - Skills: Multi-lingual Natural Language Processing, Transformers
 - Data driven approaches for predicting success of Indian IPOs 
     - Skills: Multi-modal Natural Language Processing, Large Language Models (LLMs), Retrieval Augmented Generation (RAG), Fine-tuning LLMs
       <img src="../assets/img/ipo-methodology.png" alt="ipo" width="750" height="500">
