@@ -13,7 +13,33 @@ td {
 }
 </style>
 
+<style>
+  .photo-gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 16px;
+    padding: 16px 0;
+  }
+  
+  .photo-gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+
+  .photo-gallery img:hover {
+    transform: scale(1.02);
+  }
+</style>
+
 <h2>Work Experience</h2>
+
+<div class="photo-gallery">
+  <img src="{{ '/assets/img/CareerTimeline.png' | relative_url }}" alt="My Career so far 🙂">
+</div>
+
 <div style="height:600px;overflow:auto;">
 <table style="border: 3px solid #990000; border-collapse: collapse">
   <thead>
@@ -66,6 +92,11 @@ td {
 <hr>
 
 <h2>Education</h2>
+
+<div class="photo-gallery">
+  <img src="{{ '/assets/img/EducationTimeline.png' | relative_url }}" alt="My Educational Qualification">
+</div>
+
 <div style="height:200px;overflow:auto;">
 <table  style="border: 3px solid #990000; border-collapse: collapse">
   <thead>
