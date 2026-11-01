@@ -102,6 +102,7 @@ Here's a [visual journey](https://sohomghosh.github.io/gallery/){:target="_blank
 <details>
   <summary>2026</summary>
  <ul>
+  <li> Oct 2026: Visited Srisailam, Pareshnath, Sasaram. Explored Hyderabad & Kolkata. Celebrated Durga Pujo. Watched 3 Bengali movies in  theater. </li>
   <li> Sep 2026: Completed my 1st year with Apple - a year of horizontal expansion for vertical integration! </li>
   <li> Aug 2026: Extracurricular Achievements: Summited Dzo Jongo East Peak (6,000m+); completed Full Marathon (42.2 km) in 4 hrs 35 sec; Cycled 200+ km in Ladakh, including the Leh to Khardung La uphill climb. </li>
   <li> Jul 2026: Completed a full decade of corporate adventures — building across agile startups, established financial institution, and FAANG! </li>
